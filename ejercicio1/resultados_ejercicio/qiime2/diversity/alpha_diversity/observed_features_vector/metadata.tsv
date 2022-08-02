@@ -1,0 +1,6 @@
+id	type	milk	state	climate	observed_features
+#q2:types	categorical	categorical	categorical	categorical	numeric
+Adobera_pasteurizada	semi-hard	Pd	Jalisco	humid subtropical	2
+Adobera_artesanal	semi-hard	Rw	Jalisco	humid subtropical	2
+Zacatecas	semi-hard	Rw	Queretaro	tropical and subtropical steppe	3
+Chihuahua	semi-soft	Pd	Chihuahua	tropical and subtropical steppe	3

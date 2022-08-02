@@ -1,0 +1,13 @@
+# Constructed from biom file
+#OTU ID	Adobera_pasteurizada	Adobera_artesanal	Zacatecas	Chihuahua	Cincho	Oaxaca	Canasto	Asadero	Manchego	Adobera_mesa	Cotija	Panela_pasteurizado	Panela_artesanal	Jocoque	Chiapas	Ranchero_Estado_de_Mexico	Ranchero_Veracruz
+Bacteria;Bacteria;Proteobacteria;Gammaproteobacteria	0.0	476.0	675.0	103.0	6143.0	2575.0	3143.0	1014.0	1000.0	31530.0	9614.0	1041.0	17485.0	1072.0	142.0	3786.0	37050.0
+Bacteria;Bacteria;Firmicutes;Bacilli	2989.0	17650.0	26477.0	54463.0	26357.0	36829.0	497.0	8626.0	20400.0	6565.0	24300.0	8643.0	21975.0	64734.0	42681.0	40888.0	1575.0
+Bacteria;Bacteria;Proteobacteria;Alphaproteobacteria	9.0	18.0	56.0	30.0	66.0	116.0	17.0	17.0	0.0	296.0	75.0	3.0	93.0	0.0	116.0	81.0	185.0
+Bacteria;Bacteria;Bacteroidota;Bacteroidia	0.0	63.0	514.0	137.0	62.0	12.0	0.0	56.0	25.0	6.0	127.0	38.0	47.0	0.0	0.0	129.0	14.0
+Bacteria;Bacteria;Firmicutes;Clostridia	68.0	52.0	1917.0	397.0	101.0	206.0	109.0	41.0	80.0	437.0	164.0	26.0	192.0	187.0	139.0	138.0	507.0
+Bacteria;Bacteria;Deinococcota;Deinococci	0.0	0.0	0.0	0.0	0.0	0.0	0.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Bacteria;Bacteria;Actinobacteriota;Actinobacteria	0.0	0.0	23.0	10.0	196.0	62.0	0.0	20.0	35.0	100.0	90.0	0.0	48.0	0.0	24.0	124.0	22.0
+Bacteria;Bacteria;Campylobacterota;Campylobacteria	0.0	0.0	0.0	0.0	0.0	5.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	5.0	0.0	3.0
+Bacteria;Bacteria;Fusobacteriota;Fusobacteriia	0.0	0.0	0.0	0.0	0.0	34.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Bacteria;Bacteria;Acidobacteriota;Acidobacteriae	0.0	0.0	0.0	0.0	9.0	5.0	0.0	0.0	0.0	23.0	7.0	0.0	0.0	10.0	0.0	8.0	20.0
+Bacteria;Bacteria;;	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	16.0	0.0	5.0	0.0	0.0	0.0	0.0

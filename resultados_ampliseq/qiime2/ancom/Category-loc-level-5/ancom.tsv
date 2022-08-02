@@ -1,0 +1,33 @@
+	W	Reject null hypothesis
+Bacteria;Bacteria;Fusobacteriota;Fusobacteriia;Fusobacteriales	14	True
+Bacteria;Bacteria;Firmicutes;Clostridia;Clostridia UCG-014	14	True
+Bacteria;Bacteria;Firmicutes;Bacilli;Exiguobacterales	14	True
+Bacteria;Bacteria;Actinobacteriota;Actinobacteria;Bifidobacteriales	14	True
+Bacteria;Bacteria;Acidobacteriota;Acidobacteriae;Subgroup 2	14	True
+Bacteria;Bacteria;;;	14	True
+Bacteria;Bacteria;Firmicutes;Bacilli;Paenibacillales	14	True
+Bacteria;Bacteria;Acidobacteriota;Acidobacteriae;Acidobacteriales	14	True
+Bacteria;Bacteria;Actinobacteriota;Actinobacteria;Corynebacteriales	14	True
+Bacteria;Bacteria;Firmicutes;Clostridia;Peptostreptococcales-Tissierellales	14	True
+Bacteria;Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales	14	True
+Bacteria;Bacteria;Bacteroidota;Bacteroidia;Sphingobacteriales	14	True
+Bacteria;Bacteria;Campylobacterota;Campylobacteria;Campylobacterales	14	True
+Bacteria;Bacteria;Proteobacteria;Alphaproteobacteria;Caulobacterales	14	True
+Bacteria;Bacteria;Actinobacteriota;Actinobacteria;Micrococcales	14	True
+Bacteria;Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales	1	False
+Bacteria;Bacteria;Firmicutes;Bacilli;Bacillales	1	False
+Bacteria;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales	0	False
+Bacteria;Bacteria;Firmicutes;Bacilli;Lactobacillales	0	False
+Bacteria;Bacteria;Proteobacteria;Alphaproteobacteria;Acetobacterales	0	False
+Bacteria;Bacteria;Firmicutes;Bacilli;Staphylococcales	0	False
+Bacteria;Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales	0	False
+Bacteria;Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales	0	False
+Bacteria;Bacteria;Firmicutes;Clostridia;Oscillospirales	0	False
+Bacteria;Bacteria;Bacteroidota;Bacteroidia;Bacteroidales	0	False
+Bacteria;Bacteria;Actinobacteriota;Actinobacteria;	0	False
+Bacteria;Bacteria;Firmicutes;Clostridia;Lachnospirales	0	False
+Bacteria;Bacteria;Deinococcota;Deinococci;Thermales	0	False
+Bacteria;Bacteria;Firmicutes;Clostridia;Clostridiales	0	False
+Bacteria;Bacteria;Firmicutes;Clostridia;Christensenellales	0	False
+Bacteria;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales	0	False
+Bacteria;Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales	0	False

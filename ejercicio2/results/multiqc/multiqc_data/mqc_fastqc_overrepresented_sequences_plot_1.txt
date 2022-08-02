@@ -1,0 +1,3 @@
+Sample	Top over-represented sequence	Sum of remaining over-represented sequences
+Adobera_pasteurizada	60.0	40.0
+Chihuahua	50.0	50.0

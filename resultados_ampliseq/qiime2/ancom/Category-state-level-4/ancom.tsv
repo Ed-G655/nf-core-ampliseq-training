@@ -1,0 +1,12 @@
+	W	Reject null hypothesis
+Bacteria;Bacteria;Fusobacteriota;Fusobacteriia	2	True
+Bacteria;Bacteria;Deinococcota;Deinococci	1	True
+Bacteria;Bacteria;Campylobacterota;Campylobacteria	1	True
+Bacteria;Bacteria;Proteobacteria;Gammaproteobacteria	0	True
+Bacteria;Bacteria;Firmicutes;Bacilli	0	True
+Bacteria;Bacteria;Proteobacteria;Alphaproteobacteria	0	True
+Bacteria;Bacteria;Bacteroidota;Bacteroidia	0	True
+Bacteria;Bacteria;Firmicutes;Clostridia	0	True
+Bacteria;Bacteria;Actinobacteriota;Actinobacteria	0	True
+Bacteria;Bacteria;Acidobacteriota;Acidobacteriae	0	True
+Bacteria;Bacteria;;	0	True

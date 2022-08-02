@@ -1,0 +1,33 @@
+id	clr	W
+Bacteria;Bacteria;;;	1.0906424960309338	0
+Bacteria;Bacteria;Acidobacteriota;Acidobacteriae;Acidobacteriales	1.6225475322488245	0
+Bacteria;Bacteria;Acidobacteriota;Acidobacteriae;Subgroup 2	0.8982394799894452	1
+Bacteria;Bacteria;Actinobacteriota;Actinobacteria;	0.8356692581037984	0
+Bacteria;Bacteria;Actinobacteriota;Actinobacteria;Bifidobacteriales	5.996290859758293	7
+Bacteria;Bacteria;Actinobacteriota;Actinobacteria;Corynebacteriales	1.9589118440285371	0
+Bacteria;Bacteria;Actinobacteriota;Actinobacteria;Micrococcales	0.6099536847387741	0
+Bacteria;Bacteria;Bacteroidota;Bacteroidia;Bacteroidales	2.513361067790534	0
+Bacteria;Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales	0.9427029838268755	0
+Bacteria;Bacteria;Bacteroidota;Bacteroidia;Sphingobacteriales	1.304923035845275	4
+Bacteria;Bacteria;Campylobacterota;Campylobacteria;Campylobacterales	1.3744811093231493	3
+Bacteria;Bacteria;Deinococcota;Deinococci;Thermales	0.47621828633838065	2
+Bacteria;Bacteria;Firmicutes;Bacilli;Bacillales	1.0735502563051682	0
+Bacteria;Bacteria;Firmicutes;Bacilli;Exiguobacterales	0.6918413450155773	1
+Bacteria;Bacteria;Firmicutes;Bacilli;Lactobacillales	2.000314299676669	0
+Bacteria;Bacteria;Firmicutes;Bacilli;Paenibacillales	0.2983135453364186	0
+Bacteria;Bacteria;Firmicutes;Bacilli;Staphylococcales	3.3428390853765464	0
+Bacteria;Bacteria;Firmicutes;Clostridia;Christensenellales	4.126760132401863	4
+Bacteria;Bacteria;Firmicutes;Clostridia;Clostridia UCG-014	2.1971954791684816	1
+Bacteria;Bacteria;Firmicutes;Clostridia;Clostridiales	1.058718686457427	0
+Bacteria;Bacteria;Firmicutes;Clostridia;Lachnospirales	1.5101697825898601	0
+Bacteria;Bacteria;Firmicutes;Clostridia;Oscillospirales	1.5174317738473748	0
+Bacteria;Bacteria;Firmicutes;Clostridia;Peptostreptococcales-Tissierellales	1.5191495237096406	2
+Bacteria;Bacteria;Fusobacteriota;Fusobacteriia;Fusobacteriales	3.0585002850943237	6
+Bacteria;Bacteria;Proteobacteria;Alphaproteobacteria;Acetobacterales	0.6294666806418421	0
+Bacteria;Bacteria;Proteobacteria;Alphaproteobacteria;Caulobacterales	0.8335557231390734	4
+Bacteria;Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales	2.27217889501247	0
+Bacteria;Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales	0.4204019443429474	0
+Bacteria;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales	2.255037703490402	0
+Bacteria;Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales	0.5904500400508751	0
+Bacteria;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales	0.7805343031322608	0
+Bacteria;Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales	2.1491913636999826	1

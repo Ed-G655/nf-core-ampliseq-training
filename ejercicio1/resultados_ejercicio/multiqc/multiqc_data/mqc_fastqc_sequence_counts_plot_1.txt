@@ -1,0 +1,5 @@
+Sample	Unique Reads	Duplicate Reads
+Adobera_artesanal	16.0	34.0
+Adobera_pasteurizada	17.0	33.0
+Chihuahua	11.0	39.0
+Zacatecas	17.0	33.0

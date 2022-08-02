@@ -1,0 +1,5 @@
+sample	cutadapt_total_processed	cutadapt_reverse_complemented	cutadapt_passing_filters	cutadapt_passing_filters_percent	input	filtered	denoised	nonchim	input_tax_filter	filtered_tax_filter	lost	retained_percent	lost_percent
+Adobera_artesanal	50	NA	50	100.0%	50	35	31	31	31	31	0	100	0
+Adobera_pasteurizada	50	NA	48	96.0%	48	38	37	37	37	37	0	100	0
+Chihuahua	50	NA	50	100.0%	50	41	41	41	41	41	0	100	0
+Zacatecas	50	NA	50	100.0%	50	40	34	34	34	34	0	100	0

@@ -1,0 +1,11 @@
+	SubjectID1	SubjectID2	Group1	Group2	Distance
+0	Chihuahua	Adobera_pasteurizada	Pd	Pd	0.4576294328002834
+1	Adobera_pasteurizada	Adobera_artesanal	Pd	Rw	0.16734256426145191
+2	Adobera_pasteurizada	Zacatecas	Pd	Rw	0.4576294328002834
+3	Chihuahua	Adobera_artesanal	Pd	Rw	0.5483911077663107
+4	Chihuahua	Zacatecas	Pd	Rw	0.0
+0	Zacatecas	Adobera_artesanal	Rw	Rw	0.5483911077663107
+1	Adobera_artesanal	Adobera_pasteurizada	Rw	Pd	0.16734256426145191
+2	Adobera_artesanal	Chihuahua	Rw	Pd	0.5483911077663107
+3	Zacatecas	Adobera_pasteurizada	Rw	Pd	0.4576294328002834
+4	Zacatecas	Chihuahua	Rw	Pd	0.0

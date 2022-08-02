@@ -1,0 +1,2 @@
+addSpecies	allowMultiple = FALSE, n = 1e5
+seed	100

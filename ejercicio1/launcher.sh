@@ -1,0 +1,12 @@
+ nextflow run nf-core/ampliseq \
+ 	-profile docker \
+ 	--FW_primer CCTACGGGAGGCAGCAG \
+ 	--RV_primer CCTAATCTATGGGACCATCAG\
+ 	--outdir "./results" \
+ 	--metadata "metadata.tsv" \
+ 	--single_end \
+ 	--max_cpus 4 \
+ 	--max_memory '4.GB' \
+ 	--skip_alpha_rarefaction \
+ 	--skip_ancom \
+ 	-resume 

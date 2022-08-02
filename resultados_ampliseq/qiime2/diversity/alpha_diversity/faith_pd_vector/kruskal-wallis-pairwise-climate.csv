@@ -1,0 +1,22 @@
+Group 1,Group 2,H,p-value,q-value
+humid subtropical (n=6),marine west coast (n=1),2.25,0.13361440253771584,0.3773962392458914
+humid subtropical (n=6),mediterranean (n=1),2.25,0.13361440253771584,0.3773962392458914
+humid subtropical (n=6),oceanic subtropical highland (n=3),1.0666666666666664,0.30169958247834494,0.39197180383065494
+humid subtropical (n=6),tropical and subtropical desert (n=1),1.0,0.31731050786291115,0.39197180383065494
+humid subtropical (n=6),tropical and subtropical steppe (n=2),4.0,0.04550026389635857,0.3773962392458914
+humid subtropical (n=6),tropical savanna (n=3),2.3999999999999986,0.12133525035848367,0.3773962392458914
+marine west coast (n=1),mediterranean (n=1),1.0,0.31731050786291115,0.39197180383065494
+marine west coast (n=1),oceanic subtropical highland (n=3),1.8000000000000007,0.17971249487899588,0.3773962392458914
+marine west coast (n=1),tropical and subtropical desert (n=1),1.0,0.31731050786291115,0.39197180383065494
+marine west coast (n=1),tropical and subtropical steppe (n=2),0.0,1.0,1.0
+marine west coast (n=1),tropical savanna (n=3),1.8000000000000007,0.17971249487899588,0.3773962392458914
+mediterranean (n=1),oceanic subtropical highland (n=3),1.8000000000000007,0.17971249487899588,0.3773962392458914
+mediterranean (n=1),tropical and subtropical desert (n=1),1.0,0.31731050786291115,0.39197180383065494
+mediterranean (n=1),tropical and subtropical steppe (n=2),0.0,1.0,1.0
+mediterranean (n=1),tropical savanna (n=3),0.1999999999999993,0.6547208460185774,0.7236388298100066
+oceanic subtropical highland (n=3),tropical and subtropical desert (n=1),1.8000000000000007,0.17971249487899588,0.3773962392458914
+oceanic subtropical highland (n=3),tropical and subtropical steppe (n=2),3.0,0.08326451666355042,0.3773962392458914
+oceanic subtropical highland (n=3),tropical savanna (n=3),0.42857142857142705,0.5126907602619241,0.5981392203055781
+tropical and subtropical desert (n=1),tropical and subtropical steppe (n=2),1.5,0.22067136191984324,0.39197180383065494
+tropical and subtropical desert (n=1),tropical savanna (n=3),1.8000000000000007,0.17971249487899588,0.3773962392458914
+tropical and subtropical steppe (n=2),tropical savanna (n=3),1.3333333333333321,0.2482130789899204,0.39197180383065494

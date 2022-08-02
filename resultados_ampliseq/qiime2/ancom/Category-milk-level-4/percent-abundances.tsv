@@ -1,0 +1,13 @@
+Percentile	0.0	25.0	50.0	75.0	100.0	0.0	25.0	50.0	75.0	100.0
+Group	Pd	Pd	Pd	Pd	Pd	Rw	Rw	Rw	Rw	Rw
+Bacteria;Bacteria;Proteobacteria;Gammaproteobacteria	1.0	52.5	104.0	573.0	1042.0	143.0	1004.5	2860.0	8747.25	37051.0
+Bacteria;Bacteria;Firmicutes;Bacilli	2990.0	5817.0	8644.0	31554.0	54464.0	498.0	10883.0	23138.5	34242.0	64735.0
+Bacteria;Bacteria;Proteobacteria;Alphaproteobacteria	4.0	7.0	10.0	20.5	31.0	1.0	18.25	71.5	111.25	297.0
+Bacteria;Bacteria;Bacteroidota;Bacteroidia	1.0	20.0	39.0	88.5	138.0	1.0	8.5	37.0	63.75	515.0
+Bacteria;Bacteria;Firmicutes;Clostridia	27.0	48.0	69.0	233.5	398.0	42.0	104.0	152.5	203.5	1918.0
+Bacteria;Bacteria;Deinococcota;Deinococci	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	3.0
+Bacteria;Bacteria;Actinobacteriota;Actinobacteria	1.0	1.0	1.0	6.0	11.0	1.0	21.5	30.5	84.0	197.0
+Bacteria;Bacteria;Campylobacterota;Campylobacteria	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	6.0
+Bacteria;Bacteria;Fusobacteriota;Fusobacteriia	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	35.0
+Bacteria;Bacteria;Acidobacteriota;Acidobacteriae	1.0	1.0	1.0	1.0	1.0	1.0	1.0	3.5	9.75	24.0
+Bacteria;Bacteria;;	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	17.0

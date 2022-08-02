@@ -1,0 +1,18 @@
+Sample	Unique Reads	Duplicate Reads
+Adobera_artesanal	1673.0	25597.0
+Adobera_mesa	2115.0	66988.0
+Adobera_pasteurizada	396.0	3443.0
+Asadero	771.0	10148.0
+Canasto	524.0	5617.0
+Chiapas	1806.0	55726.0
+Chihuahua	2134.0	66409.0
+Cincho	2339.0	40373.0
+Cotija	2360.0	46419.0
+Jocoque	2249.0	81651.0
+Manchego	1264.0	25120.0
+Oaxaca	2114.0	54395.0
+Panela_artesanal	2229.0	54231.0
+Panela_pasteurizado	890.0	11422.0
+Ranchero_Estado_de_Mexico	2647.0	61963.0
+Ranchero_Veracruz	2318.0	57129.0
+Zacatecas	2061.0	39863.0

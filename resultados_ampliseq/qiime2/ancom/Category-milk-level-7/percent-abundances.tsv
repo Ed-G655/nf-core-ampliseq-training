@@ -1,0 +1,153 @@
+Percentile	0.0	25.0	50.0	75.0	100.0	0.0	25.0	50.0	75.0	100.0
+Group	Pd	Pd	Pd	Pd	Pd	Rw	Rw	Rw	Rw	Rw
+Bacteria;Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;	1.0	1.0	1.0	175.5	350.0	1.0	95.25	137.5	171.75	353.0
+Bacteria;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Marinomonadaceae;Marinomonas	1.0	1.0	1.0	7.5	14.0	14.0	26.0	59.5	188.0	31375.0
+Bacteria;Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Paucilactobacillus	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	17.0
+Bacteria;Bacteria;Proteobacteria;Alphaproteobacteria;Acetobacterales;Acetobacteraceae;Acetobacter	1.0	5.5	10.0	15.0	20.0	1.0	9.25	27.0	62.5	148.0
+Bacteria;Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales;Yersiniaceae;Yersinia	1.0	1.0	1.0	12.5	24.0	1.0	1.0	1.0	32.75	2123.0
+Bacteria;Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Enterobacter	1.0	1.0	1.0	191.5	382.0	1.0	1.0	1.0	55.75	1009.0
+Bacteria;Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Limosilactobacillus	1.0	1.0	1.0	13.5	26.0	1.0	3.5	15.0	20.5	3871.0
+Bacteria;Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Salmonella	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	109.5	228.0
+Bacteria;Bacteria;Firmicutes;Bacilli;Lactobacillales;Streptococcaceae;Lactococcus	379.0	3027.5	5676.0	9062.0	12448.0	61.0	2537.5	3730.5	10780.25	50752.0
+Bacteria;Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Lactobacillus	64.0	89.5	115.0	13820.0	27525.0	65.0	267.0	526.0	1056.5	26429.0
+Bacteria;Bacteria;Firmicutes;Bacilli;Staphylococcales;Staphylococcaceae;	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	24.0
+Bacteria;Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales;;	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	173.75	456.0
+Bacteria;Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Weeksellaceae;Chryseobacterium	1.0	4.5	8.0	21.5	35.0	1.0	1.0	12.5	42.0	106.0
+Bacteria;Bacteria;Firmicutes;Bacilli;Staphylococcales;Staphylococcaceae;Staphylococcus	1.0	1.0	1.0	1.0	1.0	1.0	1.0	24.0	76.5	170.0
+Bacteria;Bacteria;Firmicutes;Clostridia;Oscillospirales;Oscillospiraceae;UCG-002	1.0	1.0	1.0	19.5	38.0	1.0	1.0	1.0	1.0	86.0
+Bacteria;Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales;Aeromonadaceae;Aeromonas	1.0	14.0	27.0	32.0	37.0	1.0	52.25	301.0	729.25	10858.0
+Bacteria;Bacteria;Firmicutes;Clostridia;Oscillospirales;[Eubacterium] coprostanoligenes group;	1.0	1.0	1.0	2.5	4.0	1.0	1.0	1.0	1.0	1.0
+Bacteria;Bacteria;Firmicutes;Bacilli;Lactobacillales;Streptococcaceae;Streptococcus	1934.0	2168.0	2402.0	8040.0	13678.0	25.0	787.25	6023.5	12666.75	30435.0
+Bacteria;Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Ligilactobacillus	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	374.0
+Bacteria;Bacteria;Firmicutes;Bacilli;Lactobacillales;Carnobacteriaceae;Atopostipes	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	10.0
+Bacteria;Bacteria;Firmicutes;Clostridia;Oscillospirales;Ruminococcaceae;	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	74.0
+Bacteria;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Acinetobacter	1.0	1.0	1.0	23.5	46.0	1.0	31.75	90.5	197.0	372.0
+Bacteria;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Comamonas	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	11.0
+Bacteria;Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Leuconostoc	1.0	6.5	12.0	15.5	19.0	1.0	15.5	27.0	37.5	1876.0
+Bacteria;Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;	1.0	1.0	1.0	6.5	12.0	1.0	1.0	14.5	19.0	62.0
+Bacteria;Bacteria;Firmicutes;Clostridia;Lachnospirales;Lachnospiraceae;[Eubacterium] hallii group	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	60.0
+Bacteria;Bacteria;Firmicutes;Clostridia;Lachnospirales;Lachnospiraceae;	1.0	1.0	1.0	50.0	99.0	1.0	1.0	1.0	1.0	491.0
+Bacteria;Bacteria;Deinococcota;Deinococci;Thermales;Thermaceae;Thermus	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	3.0
+Bacteria;Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae;	1.0	1.0	1.0	37.5	74.0	1.0	1.0	1.0	15.25	139.0
+Bacteria;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	26.0
+Bacteria;Bacteria;Actinobacteriota;Actinobacteria;Micrococcales;Micrococcaceae;Kocuria	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	64.0
+Bacteria;Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Cronobacter	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	59.0
+Bacteria;Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales;MB19;	1.0	1.0	1.0	1.0	1.0	1.0	4.5	94.0	620.75	4950.0
+Bacteria;Bacteria;Firmicutes;Bacilli;Lactobacillales;Enterococcaceae;Enterococcus	5.0	31.0	57.0	113.0	169.0	9.0	138.25	291.5	594.5	1319.0
+Bacteria;Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales;Erwiniaceae;Erwinia	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	76.0
+Bacteria;Bacteria;Firmicutes;Clostridia;Lachnospirales;Lachnospiraceae;[Eubacterium] ruminantium group	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	43.0
+Bacteria;Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Escherichia-Shigella	1.0	11.5	22.0	47.5	73.0	1.0	1.0	27.0	51.0	1207.0
+Bacteria;Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales;Yersiniaceae;Gibbsiella	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	25.0	203.0
+Bacteria;Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Flavobacterium	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	13.0
+Bacteria;Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Secundilactobacillus	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	171.0
+Bacteria;Bacteria;Firmicutes;Clostridia;Clostridia UCG-014;;	1.0	1.0	1.0	8.0	15.0	1.0	1.0	1.0	1.0	19.0
+Bacteria;Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Schleiferilactobacillus	1.0	1.0	1.0	28.5	56.0	1.0	1.0	21.0	39.25	77.0
+Bacteria;Bacteria;Bacteroidota;Bacteroidia;Bacteroidales;Rikenellaceae;Alistipes	1.0	1.0	1.0	7.0	13.0	1.0	1.0	1.0	1.0	41.0
+Bacteria;Bacteria;Bacteroidota;Bacteroidia;Bacteroidales;Prevotellaceae;Paraprevotella	1.0	1.0	1.0	8.0	15.0	1.0	1.0	1.0	1.0	51.0
+Bacteria;Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales;Yersiniaceae;Serratia	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	43.0	461.0
+Bacteria;Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Weeksellaceae;	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	9.0
+Bacteria;Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Loigolactobacillus	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	14.0
+Bacteria;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Psychrobacter	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	116.0
+Bacteria;Bacteria;Firmicutes;Clostridia;Oscillospirales;Ruminococcaceae;Subdoligranulum	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	18.0
+Bacteria;Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Citrobacter	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	26.0
+Bacteria;Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Klebsiella	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1551.0
+Bacteria;Bacteria;Campylobacterota;Campylobacteria;Campylobacterales;Arcobacteraceae;Malaciobacter	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	6.0
+Bacteria;Bacteria;Proteobacteria;Alphaproteobacteria;Acetobacterales;Acetobacteraceae;Nguyenibacter	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	25.0
+Bacteria;Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Lentilactobacillus	1.0	1.0	1.0	72.0	143.0	21.0	46.0	58.0	145.25	687.0
+Bacteria;Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales;Yersiniaceae;	1.0	1.0	1.0	1.0	1.0	1.0	1.0	25.5	81.25	126.0
+Bacteria;Bacteria;Bacteroidota;Bacteroidia;Bacteroidales;Marinifilaceae;Odoribacter	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	10.0
+Bacteria;Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Liquorilactobacillus	1.0	16.5	32.0	100.0	168.0	1.0	48.75	72.5	98.5	236.0
+Bacteria;Bacteria;Fusobacteriota;Fusobacteriia;Fusobacteriales;Leptotrichiaceae;Caviibacter	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	10.0
+Bacteria;Bacteria;Firmicutes;Bacilli;Bacillales;Planococcaceae;Viridibacillus	1.0	1.0	1.0	10.0	19.0	1.0	1.0	1.0	1.0	1.0
+Bacteria;Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales;Vibrionaceae;Vibrio	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	686.0
+Bacteria;Bacteria;Firmicutes;Bacilli;Lactobacillales;Listeriaceae;Brochothrix	1.0	1.0	1.0	14.0	27.0	1.0	1.0	1.0	1.0	39.0
+Bacteria;Bacteria;Firmicutes;Clostridia;Christensenellales;Christensenellaceae;Christensenellaceae R-7 group	1.0	1.0	1.0	11.5	22.0	1.0	1.0	1.0	1.0	8.0
+Bacteria;Bacteria;Firmicutes;Bacilli;Lactobacillales;Carnobacteriaceae;Carnobacterium	1.0	12.0	23.0	73.5	124.0	1.0	1.0	1.0	27.75	524.0
+Bacteria;Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales;Celerinatantimonadaceae;Celerinatantimonas	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	16.5	1297.0
+Bacteria;Bacteria;Firmicutes;Bacilli;Bacillales;Sporolactobacillaceae;Sporolactobacillus	1.0	1.0	1.0	13.0	25.0	1.0	1.0	1.0	13.75	20.0
+Bacteria;Bacteria;Bacteroidota;Bacteroidia;Sphingobacteriales;Sphingobacteriaceae;Sphingobacterium	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	6.0
+Bacteria;Bacteria;Firmicutes;Bacilli;Lactobacillales;Carnobacteriaceae;Alloiococcus	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	7.0
+Bacteria;Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Stenotrophomonas	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	11.0
+Bacteria;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas	1.0	1.0	1.0	4.0	7.0	1.0	19.25	29.0	103.5	335.0
+Bacteria;Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Weissella	10.0	13.5	17.0	51.0	85.0	15.0	28.25	51.5	98.75	8472.0
+Bacteria;Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Weeksellaceae;Empedobacter	1.0	1.0	1.0	3.0	5.0	1.0	1.0	1.0	12.75	70.0
+Bacteria;Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Pseudocitrobacter	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	163.0
+Bacteria;Bacteria;Bacteroidota;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides	1.0	1.0	1.0	52.0	103.0	1.0	1.0	1.0	1.0	355.0
+Bacteria;Bacteria;Actinobacteriota;Actinobacteria;Micrococcales;Brevibacteriaceae;Brevibacterium	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	13.0
+Bacteria;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia-Caballeronia-Paraburkholderia	1.0	4.0	7.0	15.0	23.0	1.0	6.0	29.0	35.25	327.0
+Bacteria;Bacteria;Firmicutes;Clostridia;Peptostreptococcales-Tissierellales;Family XI;Peptoniphilus	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	14.0
+Bacteria;Bacteria;Actinobacteriota;Actinobacteria;;;	1.0	1.0	1.0	1.0	1.0	1.0	1.0	22.0	39.25	124.0
+Bacteria;Bacteria;Firmicutes;Clostridia;Oscillospirales;UCG-010;	1.0	1.0	1.0	8.5	16.0	1.0	1.0	1.0	1.0	22.0
+Bacteria;Bacteria;Firmicutes;Bacilli;Lactobacillales;Carnobacteriaceae;Marinilactibacillus	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	17.0
+Bacteria;Bacteria;Firmicutes;Clostridia;Oscillospirales;Ruminococcaceae;Anaerofilum	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	23.0
+Bacteria;Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales;Vibrionaceae;	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	423.0
+Bacteria;Bacteria;Firmicutes;Clostridia;Oscillospirales;Ruminococcaceae;CAG-352	1.0	1.0	1.0	4.5	8.0	1.0	1.0	1.0	1.0	1.0
+Bacteria;Bacteria;Firmicutes;Clostridia;Oscillospirales;Hungateiclostridiaceae;Fastidiosipila	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	7.0
+Bacteria;Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales;Shewanellaceae;Shewanella	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	58.0
+Bacteria;Bacteria;Firmicutes;Clostridia;Oscillospirales;Ruminococcaceae;[Eubacterium] siraeum group	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	69.0
+Bacteria;Bacteria;Actinobacteriota;Actinobacteria;Corynebacteriales;Corynebacteriaceae;Corynebacterium	1.0	1.0	1.0	3.5	6.0	1.0	1.0	1.0	12.25	28.0
+Bacteria;Bacteria;Acidobacteriota;Acidobacteriae;Acidobacteriales;Koribacteraceae;Candidatus Koribacter	1.0	1.0	1.0	1.0	1.0	1.0	1.0	3.5	9.75	21.0
+Bacteria;Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae;Bacillus	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	56.0
+Bacteria;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Enhydrobacter	1.0	6.5	12.0	28.0	44.0	1.0	2.25	17.0	44.25	201.0
+Bacteria;Bacteria;Firmicutes;Clostridia;Oscillospirales;Oscillospiraceae;UCG-003	1.0	1.0	1.0	13.5	26.0	1.0	1.0	1.0	1.0	1.0
+Bacteria;Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales;JI49D030;	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	5.5	429.0
+Bacteria;Bacteria;Firmicutes;Clostridia;Lachnospirales;Lachnospiraceae;Lachnospiraceae ND3007 group	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	43.0
+Bacteria;Bacteria;Firmicutes;Clostridia;Lachnospirales;Lachnospiraceae;Pseudobutyrivibrio	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	12.25	550.0
+Bacteria;Bacteria;Firmicutes;Bacilli;Lactobacillales;;	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	4.75	77.0
+Bacteria;Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Levilactobacillus	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	79.0
+Bacteria;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Chromobacteriaceae;Vogesella	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	12.0
+Bacteria;Bacteria;Firmicutes;Bacilli;Paenibacillales;Paenibacillaceae;Paenibacillus	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	60.0
+Bacteria;Bacteria;;;;;	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	17.0
+Bacteria;Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Hyphomicrobiaceae;Hyphomicrobium	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	12.5	51.0
+Bacteria;Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae;Anoxybacillus	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	6.25	282.0
+Bacteria;Bacteria;Acidobacteriota;Acidobacteriae;Subgroup 2;;	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	5.0
+Bacteria;Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Lactiplantibacillus	1.0	4.0	7.0	18.0	29.0	1.0	3.75	30.0	138.25	1983.0
+Bacteria;Bacteria;Firmicutes;Clostridia;Peptostreptococcales-Tissierellales;Peptostreptococcaceae;	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	11.0
+Bacteria;Bacteria;Actinobacteriota;Actinobacteria;Corynebacteriales;Mycobacteriaceae;Mycobacterium	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	17.0
+Bacteria;Bacteria;Firmicutes;Bacilli;Lactobacillales;Aerococcaceae;Aerococcus	1.0	1.0	1.0	29.5	58.0	1.0	27.5	41.0	76.5	9590.0
+Bacteria;Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Companilactobacillus	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	298.0
+Bacteria;Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Lacticaseibacillus	1.0	51.0	101.0	190.0	279.0	1.0	47.75	69.5	111.5	1634.0
+Bacteria;Bacteria;Actinobacteriota;Actinobacteria;Bifidobacteriales;Bifidobacteriaceae;	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	57.0
+Bacteria;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Sutterellaceae;Parasutterella	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	14.0
+Bacteria;Bacteria;Bacteroidota;Bacteroidia;Bacteroidales;Tannerellaceae;Parabacteroides	1.0	1.0	1.0	2.0	3.0	1.0	1.0	1.0	1.0	3.0
+Bacteria;Bacteria;Actinobacteriota;Actinobacteria;Micrococcales;;	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	74.0
+Bacteria;Bacteria;Firmicutes;Bacilli;Lactobacillales;Aerococcaceae;Bavariicoccus	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	14.0
+Bacteria;Bacteria;Firmicutes;Bacilli;Lactobacillales;Enterococcaceae;Tetragenococcus	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	9.0
+Bacteria;Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales;Pectobacteriaceae;Pectobacterium	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	874.0
+Bacteria;Bacteria;Firmicutes;Bacilli;Exiguobacterales;Exiguobacteraceae;Exiguobacterium	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	15.0
+Bacteria;Bacteria;Firmicutes;Bacilli;Lactobacillales;P5D1-392;	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	94.0
+Bacteria;Bacteria;Firmicutes;Clostridia;Oscillospirales;Ruminococcaceae;Ruminococcus	1.0	1.0	1.0	5.0	9.0	1.0	1.0	1.0	1.0	1.0
+Bacteria;Bacteria;Firmicutes;Bacilli;Bacillales;Planococcaceae;Rummeliibacillus	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	18.0
+Bacteria;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Halomonadaceae;Cobetia	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	5.0
+Bacteria;Bacteria;Fusobacteriota;Fusobacteriia;Fusobacteriales;Fusobacteriaceae;Fusobacterium	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	26.0
+Bacteria;Bacteria;Bacteroidota;Bacteroidia;Bacteroidales;Barnesiellaceae;Barnesiella	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	34.0
+Bacteria;Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Kosakonia	1.0	1.0	1.0	46.0	91.0	1.0	1.0	1.0	1.0	1.0
+Bacteria;Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae;Clostridium sensu stricto 1	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	68.0
+Bacteria;Bacteria;Campylobacterota;Campylobacteria;Campylobacterales;Arcobacteraceae;Pseudarcobacter	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	6.0
+Bacteria;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Neisseriaceae;Uruburuella	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	29.0
+Bacteria;Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales;Erwiniaceae;	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	312.0
+Bacteria;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Burkholderiaceae;Ralstonia	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	6.0
+Bacteria;Bacteria;Firmicutes;Clostridia;Oscillospirales;Ruminococcaceae;Faecalibacterium	1.0	2.0	3.0	27.5	52.0	1.0	1.0	1.0	1.0	213.0
+Bacteria;Bacteria;Firmicutes;Clostridia;Lachnospirales;Lachnospiraceae;[Eubacterium] eligens group	1.0	1.0	1.0	6.0	11.0	1.0	1.0	1.0	1.0	140.0
+Bacteria;Bacteria;Actinobacteriota;Actinobacteria;Bifidobacteriales;Bifidobacteriaceae;Bifidobacterium	1.0	1.0	1.0	3.5	6.0	1.0	1.0	1.0	1.0	1.0
+Bacteria;Bacteria;Bacteroidota;Bacteroidia;Bacteroidales;Muribaculaceae;	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	8.0
+Bacteria;Bacteria;Proteobacteria;Alphaproteobacteria;Caulobacterales;Caulobacteraceae;Caulobacter	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	7.0
+Bacteria;Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Weeksellaceae;Elizabethkingia	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	6.0
+Bacteria;Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Weeksellaceae;Cloacibacterium	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	19.0
+Bacteria;Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales;Erwiniaceae;Pantoea	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	40.0
+Bacteria;Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae;Clostridium sensu stricto 12	27.0	31.5	36.0	51.5	67.0	1.0	52.25	91.0	175.5	474.0
+Bacteria;Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae;Geobacillus	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	5.0
+Bacteria;Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Raoultella	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	63.0
+Bacteria;Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Lelliottia	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	195.0
+Bacteria;Bacteria;Bacteroidota;Bacteroidia;Bacteroidales;Prevotellaceae;Prevotella_9	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	6.0
+Bacteria;Bacteria;Proteobacteria;Alphaproteobacteria;Acetobacterales;Acetobacteraceae;	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	46.0
+Bacteria;Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Latilactobacillus	20.0	23.0	26.0	77.5	129.0	1.0	1.0	3.0	21.25	205.0
+Bacteria;Bacteria;Firmicutes;Bacilli;Staphylococcales;Staphylococcaceae;Macrococcus	1.0	1.0	1.0	122.5	244.0	1.0	15.25	32.0	71.5	142.0
+Bacteria;Bacteria;Actinobacteriota;Actinobacteria;Micrococcales;Micrococcaceae;Neomicrococcus	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	13.0
+Bacteria;Bacteria;Firmicutes;Clostridia;Oscillospirales;Hydrogenoanaerobacterium;	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	4.0
+Bacteria;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;;	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	67.0
+Bacteria;Bacteria;Firmicutes;Bacilli;Lactobacillales;Streptococcaceae;	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	27.0
+Bacteria;Bacteria;Firmicutes;Clostridia;Peptostreptococcales-Tissierellales;Anaerovoracaceae;Family XIII UCG-001	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	4.0
+Bacteria;Bacteria;Proteobacteria;Alphaproteobacteria;Acetobacterales;Acetobacteraceae;Ameyamaea	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	64.0
+Bacteria;Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Pediococcus	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	31.0
+Bacteria;Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Rhizobiaceae;	1.0	1.0	1.0	2.5	4.0	1.0	1.0	1.0	1.0	1.0

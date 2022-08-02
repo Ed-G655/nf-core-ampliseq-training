@@ -1,0 +1,5 @@
+sample	cutadapt_total_processed	cutadapt_reverse_complemented	cutadapt_passing_filters	cutadapt_passing_filters_percent
+Adobera_artesanal	50		50	100.0%
+Adobera_pasteurizada	50		48	96.0%
+Chihuahua	50		50	100.0%
+Zacatecas	50		50	100.0%

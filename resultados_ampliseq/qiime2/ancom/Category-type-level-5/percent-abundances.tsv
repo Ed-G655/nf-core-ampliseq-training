@@ -1,0 +1,34 @@
+Percentile	0.0	25.0	50.0	75.0	100.0	0.0	25.0	50.0	75.0	100.0	0.0	25.0	50.0	75.0	100.0	0.0	25.0	50.0	75.0	100.0	0.0	25.0	50.0	75.0	100.0
+Group	Semi-hard	Semi-hard	Semi-hard	Semi-hard	Semi-hard	Semi-soft	Semi-soft	Semi-soft	Semi-soft	Semi-soft	semi-hard	semi-hard	semi-hard	semi-hard	semi-hard	semi-soft	semi-soft	semi-soft	semi-soft	semi-soft	soft	soft	soft	soft	soft
+Bacteria;Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales	627.0	627.0	627.0	627.0	627.0	779.0	1106.5	1434.0	1761.5	2089.0	1.0	217.0	940.0	4591.0	8973.0	71.0	71.0	71.0	71.0	71.0	100.0	892.0	2926.0	4318.0	16560.0
+Bacteria;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales	375.0	375.0	375.0	375.0	375.0	237.0	299.75	362.5	425.25	488.0	1.0	167.75	467.0	547.25	29672.0	12.0	12.0	12.0	12.0	12.0	19.0	144.0	191.0	529.5	31666.0
+Bacteria;Bacteria;Firmicutes;Bacilli;Lactobacillales	20372.0	20372.0	20372.0	20372.0	20372.0	8601.0	15503.0	22405.0	29307.0	36209.0	2990.0	9201.25	20884.5	25744.25	26355.0	54422.0	54422.0	54422.0	54422.0	54422.0	356.0	4977.5	21793.0	41750.0	64551.0
+Bacteria;Bacteria;Proteobacteria;Alphaproteobacteria;Acetobacterales	1.0	1.0	1.0	1.0	1.0	7.0	15.25	23.5	31.75	40.0	10.0	24.25	43.0	55.75	193.0	20.0	20.0	20.0	20.0	20.0	1.0	9.5	64.0	86.0	111.0
+Bacteria;Bacteria;Firmicutes;Bacilli;Staphylococcales	30.0	30.0	30.0	30.0	30.0	16.0	92.5	169.0	245.5	322.0	1.0	37.75	89.5	125.5	172.0	1.0	1.0	1.0	1.0	1.0	1.0	28.5	48.0	160.0	244.0
+Bacteria;Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales	15.0	15.0	15.0	15.0	15.0	13.0	24.0	35.0	46.0	57.0	1.0	10.25	39.0	62.5	128.0	8.0	8.0	8.0	8.0	8.0	1.0	1.0	15.0	43.5	125.0
+Bacteria;Bacteria;Firmicutes;Clostridia;Oscillospirales	19.0	19.0	19.0	19.0	19.0	1.0	2.5	4.0	5.5	7.0	1.0	1.0	1.0	2.5	480.0	147.0	147.0	147.0	147.0	147.0	1.0	1.0	1.0	6.0	23.0
+Bacteria;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	51.0	59.0	67.0	327.0	23.0	23.0	23.0	23.0	23.0	7.0	24.0	29.0	55.0	307.0
+Bacteria;Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales	1.0	1.0	1.0	1.0	1.0	12.0	24.5	37.0	49.5	62.0	1.0	1.0	9.5	18.75	55.0	12.0	12.0	12.0	12.0	12.0	1.0	1.0	14.0	17.0	44.0
+Bacteria;Bacteria;Firmicutes;Clostridia;Lachnospirales	22.0	22.0	22.0	22.0	22.0	1.0	3.25	5.5	7.75	10.0	1.0	1.0	1.0	14.5	1322.0	109.0	109.0	109.0	109.0	109.0	1.0	1.0	1.0	1.0	13.0
+Bacteria;Bacteria;Deinococcota;Deinococci;Thermales	1.0	1.0	1.0	1.0	1.0	1.0	1.5	2.0	2.5	3.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+Bacteria;Bacteria;Firmicutes;Clostridia;Clostridiales	40.0	40.0	40.0	40.0	40.0	42.0	76.25	110.5	144.75	179.0	53.0	70.25	91.0	149.25	420.0	109.0	109.0	109.0	109.0	109.0	27.0	122.5	139.0	188.0	474.0
+Bacteria;Bacteria;Actinobacteriota;Actinobacteria;Micrococcales	1.0	1.0	1.0	1.0	1.0	1.0	4.0	7.0	10.0	13.0	1.0	1.0	6.5	51.0	74.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	7.0	29.0
+Bacteria;Bacteria;Firmicutes;Clostridia;Clostridia UCG-014	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	19.0	15.0	15.0	15.0	15.0	15.0	1.0	1.0	1.0	1.0	1.0
+Bacteria;Bacteria;Bacteroidota;Bacteroidia;Bacteroidales	12.0	12.0	12.0	12.0	12.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	4.75	496.0	131.0	131.0	131.0	131.0	131.0	1.0	1.0	1.0	1.0	1.0
+Bacteria;Bacteria;Campylobacterota;Campylobacteria;Campylobacterales	1.0	1.0	1.0	1.0	1.0	1.0	2.25	3.5	4.75	6.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	2.5	6.0
+Bacteria;Bacteria;Fusobacteriota;Fusobacteriia;Fusobacteriales	1.0	1.0	1.0	1.0	1.0	1.0	9.5	18.0	26.5	35.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+Bacteria;Bacteria;Firmicutes;Bacilli;Bacillales	1.0	1.0	1.0	1.0	1.0	12.0	84.25	156.5	228.75	301.0	1.0	1.0	1.0	10.75	29.0	43.0	43.0	43.0	43.0	43.0	1.0	4.5	9.0	16.0	79.0
+Bacteria;Bacteria;Firmicutes;Clostridia;Christensenellales	3.0	3.0	3.0	3.0	3.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	8.0	22.0	22.0	22.0	22.0	22.0	1.0	1.0	1.0	1.0	1.0
+Bacteria;Bacteria;Bacteroidota;Bacteroidia;Sphingobacteriales	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	6.0
+Bacteria;Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	6.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	11.0
+Bacteria;Bacteria;Firmicutes;Clostridia;Peptostreptococcales-Tissierellales	1.0	1.0	1.0	1.0	1.0	1.0	4.25	7.5	10.75	14.0	1.0	1.0	1.0	1.0	14.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+Bacteria;Bacteria;Actinobacteriota;Actinobacteria;	36.0	36.0	36.0	36.0	36.0	21.0	25.0	29.0	33.0	37.0	1.0	1.0	1.0	64.0	124.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	31.5	41.0
+Bacteria;Bacteria;Actinobacteriota;Actinobacteria;Corynebacteriales	1.0	1.0	1.0	1.0	1.0	1.0	4.5	8.0	11.5	15.0	1.0	1.0	7.0	16.0	28.0	6.0	6.0	6.0	6.0	6.0	1.0	1.0	1.0	5.5	13.0
+Bacteria;Bacteria;Acidobacteriota;Acidobacteriae;Acidobacteriales	1.0	1.0	1.0	1.0	1.0	1.0	2.25	3.5	4.75	6.0	1.0	1.0	4.5	9.5	20.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	10.0	21.0
+Bacteria;Bacteria;Firmicutes;Bacilli;Paenibacillales	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	60.0
+Bacteria;Bacteria;;;	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	17.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	6.0
+Bacteria;Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales	1.0	1.0	1.0	1.0	1.0	1.0	3.5	6.0	8.5	11.0	1.0	1.0	5.0	12.0	51.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	8.5	33.0
+Bacteria;Bacteria;Acidobacteriota;Acidobacteriae;Subgroup 2	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	5.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+Bacteria;Bacteria;Actinobacteriota;Actinobacteria;Bifidobacteriales	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	6.0	6.0	6.0	6.0	6.0	1.0	1.0	1.0	1.0	57.0
+Bacteria;Bacteria;Firmicutes;Bacilli;Exiguobacterales	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	15.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+Bacteria;Bacteria;Proteobacteria;Alphaproteobacteria;Caulobacterales	1.0	1.0	1.0	1.0	1.0	1.0	2.5	4.0	5.5	7.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0

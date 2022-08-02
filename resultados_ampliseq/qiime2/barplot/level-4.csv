@@ -1,0 +1,18 @@
+index,Bacteria;Bacteria;Proteobacteria;Gammaproteobacteria,Bacteria;Bacteria;Firmicutes;Bacilli,Bacteria;Bacteria;Proteobacteria;Alphaproteobacteria,Bacteria;Bacteria;Bacteroidota;Bacteroidia,Bacteria;Bacteria;Firmicutes;Clostridia,Bacteria;Bacteria;Deinococcota;Deinococci,Bacteria;Bacteria;Actinobacteriota;Actinobacteria,Bacteria;Bacteria;Campylobacterota;Campylobacteria,Bacteria;Bacteria;Fusobacteriota;Fusobacteriia,Bacteria;Bacteria;Acidobacteriota;Acidobacteriae,Bacteria;Bacteria;;,paper_id,type,milk,loc,state,climate
+Adobera_pasteurizada,0.0,2989.0,9.0,0.0,68.0,0.0,0.0,0.0,0.0,0.0,0.0,AP,semi-hard,Pd,Tepatitlan,Jalisco,humid subtropical
+Adobera_artesanal,476.0,17650.0,18.0,63.0,52.0,0.0,0.0,0.0,0.0,0.0,0.0,AA,semi-hard,Rw,San-Miguel-el-Alto,Jalisco,humid subtropical
+Zacatecas,675.0,26477.0,56.0,514.0,1917.0,0.0,23.0,0.0,0.0,0.0,0.0,ZAC,semi-hard,Rw,Tequisquiapan,Queretaro,tropical and subtropical steppe
+Chihuahua,103.0,54463.0,30.0,137.0,397.0,0.0,10.0,0.0,0.0,0.0,0.0,CHI,semi-soft,Pd,Ciudad-Cuauhtemoc,Chihuahua,tropical and subtropical steppe
+Cincho,6143.0,26357.0,66.0,62.0,101.0,0.0,196.0,0.0,0.0,9.0,0.0,CIN,semi-hard,Rw,Veracruz,Veracruz,tropical savanna
+Oaxaca,2575.0,36829.0,116.0,12.0,206.0,0.0,62.0,5.0,34.0,5.0,0.0,OAX,Semi-soft,Rw,Tulancingo,Hidalgo,marine west coast
+Canasto,3143.0,497.0,17.0,0.0,109.0,0.0,0.0,0.0,0.0,0.0,0.0,CAN,soft,Rw,Gomez-Palacio,Durango,tropical and subtropical desert
+Asadero,1014.0,8626.0,17.0,56.0,41.0,2.0,20.0,0.0,0.0,0.0,0.0,ASA,Semi-soft,Rw,San-Juan-del-Rio,Queretaro,oceanic subtropical highland
+Manchego,1000.0,20400.0,0.0,25.0,80.0,0.0,35.0,0.0,0.0,0.0,0.0,MAN,Semi-hard,Rw,San-Juan-del-Rio,Queretaro,oceanic subtropical highland
+Adobera_mesa,31530.0,6565.0,296.0,6.0,437.0,0.0,100.0,0.0,0.0,23.0,0.0,AM,semi-hard,Rw,Manzanilla-de-la-Paz,Jalisco,humid subtropical
+Cotija,9614.0,24300.0,75.0,127.0,164.0,0.0,90.0,0.0,0.0,7.0,16.0,COT,semi-hard,Rw,Concepción-de-Buenos-Aires,Jalisco,mediterranean
+Panela_pasteurizado,1041.0,8643.0,3.0,38.0,26.0,0.0,0.0,0.0,0.0,0.0,0.0,PP,soft,Pd,Tepatitlan,Jalisco,humid subtropical
+Panela_artesanal,17485.0,21975.0,93.0,47.0,192.0,0.0,48.0,0.0,0.0,0.0,5.0,PA,soft,Rw,Zapotlanejo,Jalisco,humid subtropical
+Jocoque,1072.0,64734.0,0.0,0.0,187.0,0.0,0.0,0.0,0.0,10.0,0.0,JOC,soft,Rw,Guadalajara,Jalisco,humid subtropical
+Chiapas,142.0,42681.0,116.0,0.0,139.0,0.0,24.0,5.0,0.0,0.0,0.0,CHP,soft,Rw,Pijijiapan,Chiapas,tropical savanna
+Ranchero_Estado_de_Mexico,3786.0,40888.0,81.0,129.0,138.0,0.0,124.0,0.0,0.0,8.0,0.0,RED,soft,Rw,Jilotepec,EDOMEX,oceanic subtropical highland
+Ranchero_Veracruz,37050.0,1575.0,185.0,14.0,507.0,0.0,22.0,3.0,0.0,20.0,0.0,REVR,soft,Rw,Tempoal,Veracruz,tropical savanna

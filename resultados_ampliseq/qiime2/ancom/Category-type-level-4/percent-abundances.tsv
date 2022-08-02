@@ -1,0 +1,13 @@
+Percentile	0.0	25.0	50.0	75.0	100.0	0.0	25.0	50.0	75.0	100.0	0.0	25.0	50.0	75.0	100.0	0.0	25.0	50.0	75.0	100.0	0.0	25.0	50.0	75.0	100.0
+Group	Semi-hard	Semi-hard	Semi-hard	Semi-hard	Semi-hard	Semi-soft	Semi-soft	Semi-soft	Semi-soft	Semi-soft	semi-hard	semi-hard	semi-hard	semi-hard	semi-hard	semi-soft	semi-soft	semi-soft	semi-soft	semi-soft	soft	soft	soft	soft	soft
+Bacteria;Bacteria;Proteobacteria;Gammaproteobacteria	1001.0	1001.0	1001.0	1001.0	1001.0	1015.0	1405.25	1795.5	2185.75	2576.0	1.0	526.75	3410.0	8747.25	31531.0	104.0	104.0	104.0	104.0	104.0	143.0	1057.5	3144.0	10636.5	37051.0
+Bacteria;Bacteria;Firmicutes;Bacilli	20401.0	20401.0	20401.0	20401.0	20401.0	8627.0	15677.75	22728.5	29779.25	36830.0	2990.0	9337.25	20976.0	25843.75	26478.0	54464.0	54464.0	54464.0	54464.0	54464.0	498.0	5110.0	21976.0	41785.5	64735.0
+Bacteria;Bacteria;Proteobacteria;Alphaproteobacteria	1.0	1.0	1.0	1.0	1.0	18.0	42.75	67.5	92.25	117.0	10.0	28.5	62.0	73.75	297.0	31.0	31.0	31.0	31.0	31.0	1.0	11.0	82.0	105.5	186.0
+Bacteria;Bacteria;Bacteroidota;Bacteroidia	26.0	26.0	26.0	26.0	26.0	13.0	24.0	35.0	46.0	57.0	1.0	21.0	63.5	112.0	515.0	138.0	138.0	138.0	138.0	138.0	1.0	1.0	15.0	43.5	130.0
+Bacteria;Bacteria;Firmicutes;Clostridia	81.0	81.0	81.0	81.0	81.0	42.0	83.25	124.5	165.75	207.0	53.0	77.25	133.5	369.75	1918.0	398.0	398.0	398.0	398.0	398.0	27.0	124.5	140.0	190.5	508.0
+Bacteria;Bacteria;Deinococcota;Deinococci	1.0	1.0	1.0	1.0	1.0	1.0	1.5	2.0	2.5	3.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+Bacteria;Bacteria;Actinobacteriota;Actinobacteria	36.0	36.0	36.0	36.0	36.0	21.0	31.5	42.0	52.5	63.0	1.0	6.75	57.5	98.5	197.0	11.0	11.0	11.0	11.0	11.0	1.0	1.0	23.0	37.0	125.0
+Bacteria;Bacteria;Campylobacterota;Campylobacteria	1.0	1.0	1.0	1.0	1.0	1.0	2.25	3.5	4.75	6.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	2.5	6.0
+Bacteria;Bacteria;Fusobacteriota;Fusobacteriia	1.0	1.0	1.0	1.0	1.0	1.0	9.5	18.0	26.5	35.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+Bacteria;Bacteria;Acidobacteriota;Acidobacteriae	1.0	1.0	1.0	1.0	1.0	1.0	2.25	3.5	4.75	6.0	1.0	1.0	4.5	9.5	24.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	10.0	21.0
+Bacteria;Bacteria;;	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	17.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	6.0

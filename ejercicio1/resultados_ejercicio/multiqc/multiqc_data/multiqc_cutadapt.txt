@@ -1,0 +1,5 @@
+Sample	cutadapt_version	r_processed	r_with_adapters	r_too_short	r_written	bp_processed	bp_written	percent_trimmed	r_filtered_unexplained
+Adobera_artesanal	3.4	50	50	0	50	10500	9647	8.123809523809523	
+Adobera_pasteurizada	3.4	50	48	0	48	10500	9263	11.780952380952382	2
+Chihuahua	3.4	50	50	0	50	10498	9648	8.096780339112211	
+Zacatecas	3.4	50	50	0	50	10499	9649	8.096009143727974	

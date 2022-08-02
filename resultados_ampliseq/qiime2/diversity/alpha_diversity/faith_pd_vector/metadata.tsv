@@ -1,0 +1,19 @@
+id	type	milk	loc	state	climate	faith_pd
+#q2:types	categorical	categorical	categorical	categorical	categorical	numeric
+Adobera_pasteurizada	semi-hard	Pd	Tepatitlan	Jalisco	humid subtropical	1.93822998957
+Adobera_artesanal	semi-hard	Rw	San-Miguel-el-Alto	Jalisco	humid subtropical	3.15507833010595
+Adobera_mesa	semi-hard	Rw	Manzanilla-de-la-Paz	Jalisco	humid subtropical	4.10528924653688
+Cotija	semi-hard	Rw	Concepción-de-Buenos-Aires	Jalisco	mediterranean	4.69635046492768
+Panela_pasteurizado	soft	Pd	Tepatitlan	Jalisco	humid subtropical	2.84708504270276
+Panela_artesanal	soft	Rw	Zapotlanejo	Jalisco	humid subtropical	4.18833712494811
+Jocoque	soft	Rw	Guadalajara	Jalisco	humid subtropical	3.38160730629531
+Chiapas	soft	Rw	Pijijiapan	Chiapas	tropical savanna	3.37615167998977
+Ranchero_Estado_de_Mexico	soft	Rw	Jilotepec	EDOMEX	oceanic subtropical highland	4.1728188600763
+Ranchero_Veracruz	soft	Rw	Tempoal	Veracruz	tropical savanna	4.3033141618771
+Zacatecas	semi-hard	Rw	Tequisquiapan	Queretaro	tropical and subtropical steppe	6.36010956594078
+Chihuahua	semi-soft	Pd	Ciudad-Cuauhtemoc	Chihuahua	tropical and subtropical steppe	4.31460800212157
+Cincho	semi-hard	Rw	Veracruz	Veracruz	tropical savanna	5.02082503436967
+Oaxaca	Semi-soft	Rw	Tulancingo	Hidalgo	marine west coast	5.2112904131536
+Canasto	soft	Rw	Gomez-Palacio	Durango	tropical and subtropical desert	2.77291983691783
+Asadero	Semi-soft	Rw	San-Juan-del-Rio	Queretaro	oceanic subtropical highland	3.43836627660047
+Manchego	Semi-hard	Rw	San-Juan-del-Rio	Queretaro	oceanic subtropical highland	3.69257151630609

@@ -1,0 +1,5 @@
+sampleID	forwardReads	run
+Adobera_pasteurizada	./data/SRR3307076_sub50.fastq.gz	SRR3307076
+Adobera_artesanal	./data/SRR3307077_sub50.fastq.gz	SRR3307077
+Zacatecas	./data/SRR3307078_sub50.fastq.gz	SRR3307078
+Chihuahua	./data/SRR3307079_sub50.fastq.gz	SRR3307079

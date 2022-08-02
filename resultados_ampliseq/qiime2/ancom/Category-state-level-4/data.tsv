@@ -1,0 +1,12 @@
+id	clr	W
+Bacteria;Bacteria;;	1.7910644329169785	0
+Bacteria;Bacteria;Acidobacteriota;Acidobacteriae	0.9795366669578794	0
+Bacteria;Bacteria;Actinobacteriota;Actinobacteria	0.9013472756312829	0
+Bacteria;Bacteria;Bacteroidota;Bacteroidia	1.7348706514547034	0
+Bacteria;Bacteria;Campylobacterota;Campylobacteria	0.9736564899359493	1
+Bacteria;Bacteria;Deinococcota;Deinococci	0.6848123746720637	1
+Bacteria;Bacteria;Firmicutes;Bacilli	1.457129731042796	0
+Bacteria;Bacteria;Firmicutes;Clostridia	0.3381972992533418	0
+Bacteria;Bacteria;Fusobacteriota;Fusobacteriia	1.9671415061501123	2
+Bacteria;Bacteria;Proteobacteria;Alphaproteobacteria	0.5282088583311543	0
+Bacteria;Bacteria;Proteobacteria;Gammaproteobacteria	0.5983942329325818	0

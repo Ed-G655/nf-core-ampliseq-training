@@ -1,0 +1,18 @@
+Sample	Filename	File type	Encoding	Total Sequences	Sequences flagged as poor quality	Sequence length	%GC	total_deduplicated_percentage	avg_sequence_length	basic_statistics	per_base_sequence_quality	per_sequence_quality_scores	per_base_sequence_content	per_sequence_gc_content	per_base_n_content	sequence_length_distribution	sequence_duplication_levels	overrepresented_sequences	adapter_content
+Adobera_artesanal	Adobera_artesanal.fastq.gz	Conventional base calls	Sanger / Illumina 1.9	27270.0	0.0	208-210	54.0	6.134946828016135	209.9914558122479	pass	warn	pass	fail	warn	pass	warn	fail	fail	pass
+Adobera_mesa	Adobera_mesa.fastq.gz	Conventional base calls	Sanger / Illumina 1.9	69103.0	0.0	208-210	54.0	3.060648597021837	209.9790891857083	pass	warn	warn	fail	fail	pass	warn	fail	fail	pass
+Adobera_pasteurizada	Adobera_pasteurizada.fastq.gz	Conventional base calls	Sanger / Illumina 1.9	3839.0	0.0	208-210	55.0	10.315186246418339	209.98723625944257	pass	warn	pass	fail	fail	pass	warn	fail	fail	pass
+Asadero	Asadero.fastq.gz	Conventional base calls	Sanger / Illumina 1.9	10919.0	0.0	208-210	53.0	7.061086180053118	209.99532924260464	pass	pass	pass	fail	fail	pass	warn	fail	fail	pass
+Canasto	Canasto.fastq.gz	Conventional base calls	Sanger / Illumina 1.9	6141.0	0.0	208-210	56.0	8.532812245562612	209.99120664386908	pass	warn	pass	fail	fail	pass	warn	fail	fail	pass
+Chiapas	Chiapas.fastq.gz	Conventional base calls	Sanger / Illumina 1.9	57532.0	0.0	208-210	52.0	3.1391225752624625	209.98795452965305	pass	fail	pass	fail	fail	pass	warn	fail	fail	pass
+Chihuahua	Chihuahua.fastq.gz	Conventional base calls	Sanger / Illumina 1.9	68543.0	0.0	208-210	53.0	3.1133740863399617	209.98875158659527	pass	pass	pass	fail	fail	pass	warn	fail	fail	pass
+Cincho	Cincho.fastq.gz	Conventional base calls	Sanger / Illumina 1.9	42712.0	0.0	208-210	54.0	5.476212773927702	209.98880876568646	pass	pass	pass	fail	fail	pass	warn	fail	fail	pass
+Cotija	Cotija.fastq.gz	Conventional base calls	Sanger / Illumina 1.9	48779.0	0.0	208-210	53.0	4.838147563500686	209.99138973738698	pass	pass	pass	fail	fail	pass	warn	fail	fail	pass
+Jocoque	Jocoque.fastq.gz	Conventional base calls	Sanger / Illumina 1.9	83900.0	0.0	208-210	53.0	2.68057210965435	209.98966626936829	pass	warn	pass	fail	fail	pass	warn	fail	fail	pass
+Manchego	Manchego.fastq.gz	Conventional base calls	Sanger / Illumina 1.9	26384.0	0.0	208-210	53.0	4.790782292298363	209.9882504548211	pass	warn	pass	fail	fail	pass	warn	fail	fail	pass
+Oaxaca	Oaxaca.fastq.gz	Conventional base calls	Sanger / Illumina 1.9	56509.0	0.0	208-210	53.0	3.7409970093259486	209.9887628519351	pass	warn	pass	fail	fail	pass	warn	fail	fail	pass
+Panela_artesanal	Panela_artesanal.fastq.gz	Conventional base calls	Sanger / Illumina 1.9	56460.0	0.0	208-210	54.0	3.947927736450584	209.99266737513284	pass	warn	pass	fail	fail	pass	warn	fail	fail	pass
+Panela_pasteurizado	Panela_pasteurizado.fastq.gz	Conventional base calls	Sanger / Illumina 1.9	12312.0	0.0	208-210	54.0	7.228719948018194	209.98911630929175	pass	warn	pass	fail	fail	pass	warn	fail	fail	pass
+Ranchero_Estado_de_Mexico	Ranchero_Estado_de_Mexico.fastq.gz	Conventional base calls	Sanger / Illumina 1.9	64610.0	0.0	208-210	54.0	4.096889026466491	209.99301965639995	pass	warn	pass	fail	fail	pass	warn	fail	fail	pass
+Ranchero_Veracruz	Ranchero_Veracruz.fastq.gz	Conventional base calls	Sanger / Illumina 1.9	59447.0	0.0	208-210	54.0	3.8992716200985753	209.99539085235588	pass	warn	pass	fail	fail	pass	warn	fail	fail	pass
+Zacatecas	Zacatecas.fastq.gz	Conventional base calls	Sanger / Illumina 1.9	41924.0	0.0	208-210	53.0	4.916038545940273	209.9905781891041	pass	pass	pass	fail	fail	pass	warn	fail	fail	pass

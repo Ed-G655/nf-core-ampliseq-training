@@ -1,0 +1,5 @@
+Sample	Top over-represented sequence	Sum of remaining over-represented sequences
+Adobera_artesanal	40.0	60.0
+Adobera_pasteurizada	60.0	40.0
+Chihuahua	46.0	54.0
+Zacatecas	26.0	74.0

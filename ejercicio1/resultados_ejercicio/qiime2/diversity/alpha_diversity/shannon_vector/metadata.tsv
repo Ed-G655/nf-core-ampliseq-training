@@ -1,0 +1,6 @@
+id	type	milk	state	climate	shannon_entropy
+#q2:types	categorical	categorical	categorical	categorical	numeric
+Adobera_pasteurizada	semi-hard	Pd	Jalisco	humid subtropical	0.708835673332196
+Adobera_artesanal	semi-hard	Rw	Jalisco	humid subtropical	0.938315352233407
+Zacatecas	semi-hard	Rw	Queretaro	tropical and subtropical steppe	1.57457837585435
+Chihuahua	semi-soft	Pd	Chihuahua	tropical and subtropical steppe	1.49186034627951

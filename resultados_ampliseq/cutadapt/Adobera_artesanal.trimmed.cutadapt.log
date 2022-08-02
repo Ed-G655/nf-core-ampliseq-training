@@ -1,0 +1,34 @@
+This is cutadapt 3.4 with Python 3.7.10
+Command line parameters: --cores 6 --minimum-length 1 -g CCTACGGGAGGCAGCAG --discard-untrimmed -o Adobera_artesanal.trimmed.trim.fastq.gz Adobera_artesanal.fastq.gz
+Processing reads on 6 cores in single-end mode ...
+Finished in 0.42 s (15 µs/read; 3.90 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:                  27,270
+Reads with adapters:                    27,145 (99.5%)
+Reads that were too short:                   0 (0.0%)
+Reads written (passing filters):        27,145 (99.5%)
+
+Total basepairs processed:     5,726,467 bp
+Total written (filtered):      5,238,766 bp (91.5%)
+
+=== Adapter 1 ===
+
+Sequence: CCTACGGGAGGCAGCAG; Type: regular 5'; Length: 17; Trimmed: 27145 times
+
+No. of allowed errors:
+1-9 bp: 0; 10-17 bp: 1
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+9	2	0.1	0	2
+10	5	0.0	1	1 4
+11	1	0.0	1	0 1
+12	1	0.0	1	1
+14	179	0.0	1	170 9
+15	2	0.0	1	0 2
+16	388	0.0	1	32 356
+17	25629	0.0	1	25052 577
+18	897	0.0	1	41 856
+19	41	0.0	1	0 41

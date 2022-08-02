@@ -1,0 +1,22 @@
+BARRNAP:
+  barrnap: '0.9'
+CUSTOM_DUMPSOFTWAREVERSIONS:
+  python: 3.9.5
+  yaml: 5.4.1
+CUTADAPT_BASIC:
+  cutadapt: '3.4'
+DADA2_DENOISING:
+  R: 4.1.1
+  dada2: 1.22.0
+FASTQC:
+  fastqc: 0.11.9
+FILTER_STATS:
+  pandas: 1.1.5
+  python: 3.9.1
+QIIME2_INSEQ:
+  qiime2: 2021.8.0
+RENAME_RAW_DATA_FILES:
+  sed: '4.7'
+Workflow:
+  Nextflow: 22.04.5
+  nf-core/ampliseq: 2.3.2

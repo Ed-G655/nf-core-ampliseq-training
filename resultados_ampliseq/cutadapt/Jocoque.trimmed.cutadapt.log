@@ -1,0 +1,36 @@
+This is cutadapt 3.4 with Python 3.7.10
+Command line parameters: --cores 6 --minimum-length 1 -g CCTACGGGAGGCAGCAG --discard-untrimmed -o Jocoque.trimmed.trim.fastq.gz Jocoque.fastq.gz
+Processing reads on 6 cores in single-end mode ...
+Finished in 1.07 s (13 µs/read; 4.71 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:                  83,900
+Reads with adapters:                    83,642 (99.7%)
+Reads that were too short:                   0 (0.0%)
+Reads written (passing filters):        83,642 (99.7%)
+
+Total basepairs processed:    17,618,133 bp
+Total written (filtered):     16,140,785 bp (91.6%)
+
+=== Adapter 1 ===
+
+Sequence: CCTACGGGAGGCAGCAG; Type: regular 5'; Length: 17; Trimmed: 83642 times
+
+No. of allowed errors:
+1-9 bp: 0; 10-17 bp: 1
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+6	1	20.5	0	1
+8	1	1.3	0	1
+9	2	0.3	0	2
+10	2	0.1	1	1 1
+13	1	0.0	1	0 1
+14	9	0.0	1	5 4
+15	21	0.0	1	12 9
+16	750	0.0	1	105 645
+17	80800	0.0	1	79485 1315
+18	1971	0.0	1	449 1522
+19	83	0.0	1	0 83
+20	1	0.0	1	0 1

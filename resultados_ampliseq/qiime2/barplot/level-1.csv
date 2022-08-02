@@ -1,0 +1,18 @@
+index,Bacteria,paper_id,type,milk,loc,state,climate
+Adobera_pasteurizada,3066.0,AP,semi-hard,Pd,Tepatitlan,Jalisco,humid subtropical
+Adobera_artesanal,18259.0,AA,semi-hard,Rw,San-Miguel-el-Alto,Jalisco,humid subtropical
+Zacatecas,29662.0,ZAC,semi-hard,Rw,Tequisquiapan,Queretaro,tropical and subtropical steppe
+Chihuahua,55140.0,CHI,semi-soft,Pd,Ciudad-Cuauhtemoc,Chihuahua,tropical and subtropical steppe
+Cincho,32934.0,CIN,semi-hard,Rw,Veracruz,Veracruz,tropical savanna
+Oaxaca,39844.0,OAX,Semi-soft,Rw,Tulancingo,Hidalgo,marine west coast
+Canasto,3766.0,CAN,soft,Rw,Gomez-Palacio,Durango,tropical and subtropical desert
+Asadero,9776.0,ASA,Semi-soft,Rw,San-Juan-del-Rio,Queretaro,oceanic subtropical highland
+Manchego,21540.0,MAN,Semi-hard,Rw,San-Juan-del-Rio,Queretaro,oceanic subtropical highland
+Adobera_mesa,38957.0,AM,semi-hard,Rw,Manzanilla-de-la-Paz,Jalisco,humid subtropical
+Cotija,34393.0,COT,semi-hard,Rw,Concepción-de-Buenos-Aires,Jalisco,mediterranean
+Panela_pasteurizado,9751.0,PP,soft,Pd,Tepatitlan,Jalisco,humid subtropical
+Panela_artesanal,39845.0,PA,soft,Rw,Zapotlanejo,Jalisco,humid subtropical
+Jocoque,66003.0,JOC,soft,Rw,Guadalajara,Jalisco,humid subtropical
+Chiapas,43107.0,CHP,soft,Rw,Pijijiapan,Chiapas,tropical savanna
+Ranchero_Estado_de_Mexico,45154.0,RED,soft,Rw,Jilotepec,EDOMEX,oceanic subtropical highland
+Ranchero_Veracruz,39376.0,REVR,soft,Rw,Tempoal,Veracruz,tropical savanna

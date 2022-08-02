@@ -1,0 +1,11 @@
+	SubjectID1	SubjectID2	Group1	Group2	Distance
+0	Adobera_artesanal	Adobera_pasteurizada	humid subtropical	humid subtropical	0.16734256426145191
+1	Adobera_pasteurizada	Zacatecas	humid subtropical	tropical and subtropical steppe	0.4576294328002834
+2	Adobera_pasteurizada	Chihuahua	humid subtropical	tropical and subtropical steppe	0.4576294328002834
+3	Adobera_artesanal	Zacatecas	humid subtropical	tropical and subtropical steppe	0.5483911077663107
+4	Adobera_artesanal	Chihuahua	humid subtropical	tropical and subtropical steppe	0.5483911077663107
+0	Chihuahua	Zacatecas	tropical and subtropical steppe	tropical and subtropical steppe	0.0
+1	Zacatecas	Adobera_pasteurizada	tropical and subtropical steppe	humid subtropical	0.4576294328002834
+2	Zacatecas	Adobera_artesanal	tropical and subtropical steppe	humid subtropical	0.5483911077663107
+3	Chihuahua	Adobera_pasteurizada	tropical and subtropical steppe	humid subtropical	0.4576294328002834
+4	Chihuahua	Adobera_artesanal	tropical and subtropical steppe	humid subtropical	0.5483911077663107
