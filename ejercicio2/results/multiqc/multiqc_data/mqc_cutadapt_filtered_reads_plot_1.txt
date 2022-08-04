@@ -1,3 +1,0 @@
-Sample	Reads passing filters
-Adobera_pasteurizada	20.0
-Chihuahua	20.0

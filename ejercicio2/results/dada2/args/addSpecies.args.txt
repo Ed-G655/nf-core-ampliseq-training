@@ -1,2 +1,2 @@
-addSpecies	allowMultiple = FALSE, n = 1e5
+addSpecies	allowMultiple = FALSE, n = 1e5,tryRC = TRUE
 seed	100

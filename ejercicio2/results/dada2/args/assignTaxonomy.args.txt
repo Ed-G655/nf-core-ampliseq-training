@@ -1,2 +1,2 @@
-assignTaxonomy	minBoot = 50
+assignTaxonomy	minBoot = 50,tryRC = TRUE
 seed	100

@@ -1,3 +1,4 @@
 ##gff-version 3
-14b4d2b82b4d565a0c4b3f5835980d57	barrnap:0.9	rRNA	2	193	2.3e-39	+	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 12 percent of the 16S ribosomal RNA
-38637af414b21bd11ad08beab0fdfff8	barrnap:0.9	rRNA	2	193	4.7e-42	+	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 12 percent of the 16S ribosomal RNA
+334ad77196a8891818e5a9282bfd9712	barrnap:0.9	rRNA	1	273	1.7e-70	+	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 17 percent of the 16S ribosomal RNA
+7824ab9966f5200211101f93b70a20ab	barrnap:0.9	rRNA	1	245	4.2e-63	+	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 15 percent of the 16S ribosomal RNA
+ebcd8f57b10b885c916f83820866851b	barrnap:0.9	rRNA	1	240	2.9e-51	+	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 15 percent of the 16S ribosomal RNA

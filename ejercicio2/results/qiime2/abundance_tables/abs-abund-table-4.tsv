@@ -1,3 +1,4 @@
 # Constructed from biom file
-#OTU ID	Adobera_pasteurizada	Chihuahua
-Bacteria;Bacteria;Firmicutes;Bacilli	16.0	11.0
+#OTU ID	data1	data2
+Bacteria;Bacteria;Firmicutes;Bacilli	8.0	0.0
+Bacteria;Bacteria;Firmicutes;Clostridia	0.0	2.0

@@ -1,3 +1,3 @@
-index,Bacteria;Bacteria;Firmicutes;Bacilli,paper_id,type,milk,loc,state,climate
-Adobera_pasteurizada,16.0,AP,semi-hard,Pd,Tepatitlan,Jalisco,humid subtropical
-Chihuahua,11.0,CHI,semi-soft,Pd,Ciudad-Cuauhtemoc,Chihuahua,tropical and subtropical steppe
+index,Bacteria;Bacteria;Firmicutes;Bacilli,Bacteria;Bacteria;Firmicutes;Clostridia,tipo_de_muestra
+data1,8.0,0.0,Queso
+data2,0.0,2.0,GC

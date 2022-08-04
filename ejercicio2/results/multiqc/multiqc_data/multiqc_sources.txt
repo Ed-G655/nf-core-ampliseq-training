@@ -1,5 +1,3 @@
 Module	Section	Sample Name	Source
-Cutadapt	all_sections	Chihuahua	/home/edu/nf-core-ampliseq-ejercicio/ejercicio2/work/f5/7b6dbb8c46630c55580165d201e7bb/Chihuahua.trimmed.cutadapt.log
-Cutadapt	all_sections	Adobera_pasteurizada	/home/edu/nf-core-ampliseq-ejercicio/ejercicio2/work/f5/7b6dbb8c46630c55580165d201e7bb/Adobera_pasteurizada.trimmed.cutadapt.log
-FastQC	all_sections	Chihuahua	/home/edu/nf-core-ampliseq-ejercicio/ejercicio2/work/f5/7b6dbb8c46630c55580165d201e7bb/Chihuahua_fastqc.zip
-FastQC	all_sections	Adobera_pasteurizada	/home/edu/nf-core-ampliseq-ejercicio/ejercicio2/work/f5/7b6dbb8c46630c55580165d201e7bb/Adobera_pasteurizada_fastqc.zip
+FastQC	all_sections	data2	/home/edu/nf-core-ampliseq-training/ejercicio2/work/b0/cdf933cfe684e49835e022929f0f63/data2_fastqc.zip
+FastQC	all_sections	data1	/home/edu/nf-core-ampliseq-training/ejercicio2/work/b0/cdf933cfe684e49835e022929f0f63/data1_fastqc.zip

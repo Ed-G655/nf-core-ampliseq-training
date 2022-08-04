@@ -1,3 +1,0 @@
-Sample	cutadapt_version	r_processed	r_with_adapters	r_too_short	r_written	bp_processed	bp_written	percent_trimmed
-Adobera_pasteurizada	3.4	20	20	0	20	4200	3859	8.119047619047619
-Chihuahua	3.4	20	20	0	20	4200	3860	8.095238095238095

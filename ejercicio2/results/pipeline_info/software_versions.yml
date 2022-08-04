@@ -3,8 +3,6 @@ BARRNAP:
 CUSTOM_DUMPSOFTWAREVERSIONS:
   python: 3.9.5
   yaml: 5.4.1
-CUTADAPT_BASIC:
-  cutadapt: '3.4'
 DADA2_DENOISING:
   R: 4.1.1
   dada2: 1.22.0
