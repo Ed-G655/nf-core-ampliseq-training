@@ -1,3 +1,13 @@
 Module	Section	Sample Name	Source
-FastQC	all_sections	data2	/home/edu/nf-core-ampliseq-training/ejercicio2/work/b0/cdf933cfe684e49835e022929f0f63/data2_fastqc.zip
-FastQC	all_sections	data1	/home/edu/nf-core-ampliseq-training/ejercicio2/work/b0/cdf933cfe684e49835e022929f0f63/data1_fastqc.zip
+Cutadapt	all_sections	Chihuahua	/home/edu/nf-core-ampliseq-training/ejercicio1/work/77/74eaab2a21b0bba7dd629241c79279/5/Chihuahua.trimmed.cutadapt.log
+Cutadapt	all_sections	Adobera_pasteurizada	/home/edu/nf-core-ampliseq-training/ejercicio1/work/77/74eaab2a21b0bba7dd629241c79279/7/Adobera_pasteurizada.trimmed.cutadapt.log
+Cutadapt	all_sections	Ranchero_Estado_de_Mexico	/home/edu/nf-core-ampliseq-training/ejercicio1/work/77/74eaab2a21b0bba7dd629241c79279/9/Ranchero_Estado_de_Mexico.trimmed.cutadapt.log
+Cutadapt	all_sections	Zacatecas	/home/edu/nf-core-ampliseq-training/ejercicio1/work/77/74eaab2a21b0bba7dd629241c79279/4/Zacatecas.trimmed.cutadapt.log
+Cutadapt	all_sections	Adobera_artesanal	/home/edu/nf-core-ampliseq-training/ejercicio1/work/77/74eaab2a21b0bba7dd629241c79279/6/Adobera_artesanal.trimmed.cutadapt.log
+Cutadapt	all_sections	Chiapas	/home/edu/nf-core-ampliseq-training/ejercicio1/work/77/74eaab2a21b0bba7dd629241c79279/8/Chiapas.trimmed.cutadapt.log
+FastQC	all_sections	Chihuahua	/home/edu/nf-core-ampliseq-training/ejercicio1/work/77/74eaab2a21b0bba7dd629241c79279/11/Chihuahua_fastqc.zip
+FastQC	all_sections	Chiapas	/home/edu/nf-core-ampliseq-training/ejercicio1/work/77/74eaab2a21b0bba7dd629241c79279/14/Chiapas_fastqc.zip
+FastQC	all_sections	Adobera_artesanal	/home/edu/nf-core-ampliseq-training/ejercicio1/work/77/74eaab2a21b0bba7dd629241c79279/12/Adobera_artesanal_fastqc.zip
+FastQC	all_sections	Zacatecas	/home/edu/nf-core-ampliseq-training/ejercicio1/work/77/74eaab2a21b0bba7dd629241c79279/10/Zacatecas_fastqc.zip
+FastQC	all_sections	Ranchero_Estado_de_Mexico	/home/edu/nf-core-ampliseq-training/ejercicio1/work/77/74eaab2a21b0bba7dd629241c79279/15/Ranchero_Estado_de_Mexico_fastqc.zip
+FastQC	all_sections	Adobera_pasteurizada	/home/edu/nf-core-ampliseq-training/ejercicio1/work/77/74eaab2a21b0bba7dd629241c79279/13/Adobera_pasteurizada_fastqc.zip

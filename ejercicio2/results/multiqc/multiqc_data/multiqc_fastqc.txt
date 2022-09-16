@@ -1,3 +1,7 @@
 Sample	Filename	File type	Encoding	Total Sequences	Sequences flagged as poor quality	Sequence length	%GC	total_deduplicated_percentage	avg_sequence_length	basic_statistics	per_base_sequence_quality	per_sequence_quality_scores	per_base_sequence_content	per_sequence_gc_content	per_base_n_content	sequence_length_distribution	sequence_duplication_levels	overrepresented_sequences	adapter_content
-data1	data1.fastq.gz	Conventional base calls	Sanger / Illumina 1.9	50.0	0.0	118-297	52.0	56.00000000000001	256.74	pass	pass	pass	fail	warn	pass	warn	warn	fail	pass
-data2	data2.fastq.gz	Conventional base calls	Sanger / Illumina 1.9	50.0	0.0	190-417	55.0	92.0	244.88	pass	pass	pass	fail	fail	pass	warn	pass	fail	pass
+Adobera_artesanal	Adobera_artesanal.fastq.gz	Conventional base calls	Sanger / Illumina 1.9	20.0	0.0	210.0	54.0	60.0	210.0	pass	pass	pass	fail	fail	pass	pass	warn	fail	pass
+Adobera_pasteurizada	Adobera_pasteurizada.fastq.gz	Conventional base calls	Sanger / Illumina 1.9	20.0	0.0	210.0	55.0	45.0	210.0	pass	pass	pass	fail	fail	pass	pass	fail	fail	pass
+Chiapas	Chiapas.fastq.gz	Conventional base calls	Sanger / Illumina 1.9	20.0	0.0	210.0	52.0	55.00000000000001	210.0	pass	pass	warn	fail	fail	pass	pass	warn	fail	pass
+Chihuahua	Chihuahua.fastq.gz	Conventional base calls	Sanger / Illumina 1.9	20.0	0.0	210.0	52.0	25.0	210.0	pass	pass	pass	fail	fail	pass	pass	fail	fail	pass
+Ranchero_Estado_de_Mexico	Ranchero_Estado_de_Mexico.fastq.gz	Conventional base calls	Sanger / Illumina 1.9	20.0	0.0	210.0	54.0	50.0	210.0	pass	pass	warn	fail	fail	pass	pass	warn	fail	pass
+Zacatecas	Zacatecas.fastq.gz	Conventional base calls	Sanger / Illumina 1.9	20.0	0.0	210.0	54.0	45.0	210.0	pass	pass	warn	fail	fail	pass	pass	fail	fail	pass

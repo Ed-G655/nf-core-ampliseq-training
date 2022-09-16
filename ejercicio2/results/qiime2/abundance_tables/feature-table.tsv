@@ -1,5 +1,7 @@
 # Constructed from biom file
-#OTU ID	data1	data2
-334ad77196a8891818e5a9282bfd9712	2.0	0.0
-ebcd8f57b10b885c916f83820866851b	0.0	2.0
-7824ab9966f5200211101f93b70a20ab	6.0	0.0
+#OTU ID	Adobera_pasteurizada	Adobera_artesanal	Zacatecas	Chihuahua	Chiapas	Ranchero_Estado_de_Mexico
+17ba62beb6d02c2c8292046aae196b14	0.0	0.0	0.0	0.0	3.0	0.0
+a76f6f021350164f51a62932ce1a31dd	0.0	12.0	0.0	0.0	0.0	0.0
+38637af414b21bd11ad08beab0fdfff8	0.0	0.0	0.0	7.0	0.0	0.0
+14b4d2b82b4d565a0c4b3f5835980d57	16.0	0.0	8.0	4.0	0.0	0.0
+8565c94cae01e4366a060ec25b643934	0.0	0.0	0.0	0.0	0.0	11.0

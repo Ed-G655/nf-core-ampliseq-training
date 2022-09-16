@@ -1,0 +1,17 @@
+nextflow run nf-core/ampliseq \
+  -profile docker \
+  --input "samplesheet.tsv" \
+  --FW_primer CCTACGGGAGGCAGCAG \
+  --RV_primer CCTAATCTATGGGACCATCAG \
+  --metadata 'metadata.tsv' \
+  --outdir "./results" \
+  --single_end \
+  --trunc_qmin 20 \
+  --min_frequency 2 \
+  --dada_ref_taxonomy rdp \
+  --max_cpus 2 \
+  --max_memory '4.GB' \
+  -resume \
+  --skip_alpha_rarefaction \
+  --skip_ancom \
+  -r dev

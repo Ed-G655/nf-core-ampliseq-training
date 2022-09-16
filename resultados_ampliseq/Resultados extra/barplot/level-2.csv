@@ -1,0 +1,16 @@
+index,Bacteria;Bacteria,;,Barcode_name,Tipo_de_muestra,Descripcion,Fecha_origen,Intensidad
+QA_23_C,135124.0,2.0,IonXpress_007,Queso,231120_control,231120,NA
+QA_25_600,597966.0,0.0,IonXpress_008,Queso,251120_600_Mpa_10_min_25C,251120,600
+QA_25_300,374743.0,0.0,IonXpress_009,Queso,251120_300_Mpa_10_min_25C,251120,300
+QA_24_600,271590.0,0.0,IonXpress_010,Queso,241120_600_Mpa_10_min_25C,241120,600
+QA_23_600,356697.0,0.0,IonXpress_011,Queso,231120_600_Mpa_10_min_25C,231120,600
+QA_24C,294123.0,0.0,IonXpress_012,Queso,241120_control,241120,NA
+QA_25C,292220.0,0.0,IonXpress_013,Queso,251120_control,251120,NA
+QA_24_300,180169.0,0.0,IonXpress_014,Queso,241120_300_Mpa_10_min_25C,241120,300
+QA_23_300,245219.0,0.0,IonXpress_015,Queso,231120_300_Mpa_10_min_25C,231120,300
+X_1_1C,67596.0,0.0,IonXpress_026,GC,Phyllofaga_sp,Montecillo,Texcoco
+X_2_1C,49594.0,48.0,IonXpress_027,GC,Phyllofaga_sp,Tierras_negras,Guanajuato
+X_3_1C,77910.0,3.0,IonXpress_028,GC,Anomala_,Tierras_negras,Guanajuato
+X_4_1C,69598.0,0.0,IonXpress_029,GC,Ciclocefala,Tierras_negras,Guanajuato
+X_5_1C,91004.0,0.0,IonXpress_030,GC,Paranomala,El_garbanzo,Guanajuato
+Q1C11,139400.0,19.0,IonXpress_031,Queso,11_23_20,231120,NA

@@ -1,4 +1,3 @@
 # Constructed from biom file
-#OTU ID	data1	data2
-Bacteria;Bacteria;Firmicutes;Bacilli;Lactobacillales	8.0	0.0
-Bacteria;Bacteria;Firmicutes;Clostridia;Clostridiales	0.0	2.0
+#OTU ID	Adobera_pasteurizada	Adobera_artesanal	Zacatecas	Chihuahua	Chiapas	Ranchero_Estado_de_Mexico
+Bacteria;Bacteria;Firmicutes;Bacilli;Lactobacillales	16.0	12.0	8.0	11.0	3.0	11.0

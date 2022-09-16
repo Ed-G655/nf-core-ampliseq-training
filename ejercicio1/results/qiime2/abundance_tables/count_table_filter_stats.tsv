@@ -1,0 +1,3 @@
+sample	input_tax_filter	filtered_tax_filter	lost	retained_percent	lost_percent
+Adobera_pasteurizada	16	16.0	0.0	100.0	0.0
+Chihuahua	11	11.0	0.0	100.0	0.0

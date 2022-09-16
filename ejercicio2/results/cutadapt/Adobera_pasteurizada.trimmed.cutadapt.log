@@ -1,7 +1,7 @@
 This is cutadapt 3.4 with Python 3.9.2
 Command line parameters: --cores 2 --minimum-length 1 -O 3 -e 0.1 -g CCTACGGGAGGCAGCAG --discard-untrimmed -o Adobera_pasteurizada.trimmed.trim.fastq.gz Adobera_pasteurizada.fastq.gz
 Processing reads on 2 cores in single-end mode ...
-Finished in 0.03 s (1295 µs/read; 0.05 M reads/minute).
+Finished in 0.02 s (977 µs/read; 0.06 M reads/minute).
 
 === Summary ===
 

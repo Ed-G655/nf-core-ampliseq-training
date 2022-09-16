@@ -1,9 +1,0 @@
-	17	18
-Adobera_artesanal - Adapter 1	47	3
-	17	18
-Adobera_pasteurizada - Adapter 1	47	1
-	17
-Chihuahua - Adapter 1	50
-	17
-Zacatecas - Adapter 1	50
-

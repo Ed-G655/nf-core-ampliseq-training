@@ -1,5 +1,0 @@
-Sample	Filename	File type	Encoding	Total Sequences	Sequences flagged as poor quality	Sequence length	%GC	total_deduplicated_percentage	avg_sequence_length	basic_statistics	per_base_sequence_quality	per_sequence_quality_scores	per_base_sequence_content	per_sequence_gc_content	per_base_n_content	sequence_length_distribution	sequence_duplication_levels	overrepresented_sequences	adapter_content
-Adobera_artesanal	Adobera_artesanal.fastq.gz	Conventional base calls	Sanger / Illumina 1.9	50.0	0.0	210.0	54.0	32.0	210.0	pass	pass	warn	fail	fail	pass	pass	fail	fail	pass
-Adobera_pasteurizada	Adobera_pasteurizada.fastq.gz	Conventional base calls	Sanger / Illumina 1.9	50.0	0.0	210.0	55.0	34.0	210.0	pass	pass	pass	fail	fail	pass	pass	fail	fail	pass
-Chihuahua	Chihuahua.fastq.gz	Conventional base calls	Sanger / Illumina 1.9	50.0	0.0	208-210	53.0	22.0	209.96	pass	pass	pass	fail	fail	pass	warn	fail	fail	pass
-Zacatecas	Zacatecas.fastq.gz	Conventional base calls	Sanger / Illumina 1.9	50.0	0.0	209-210	53.0	34.0	209.98	pass	pass	warn	fail	warn	pass	warn	fail	fail	pass

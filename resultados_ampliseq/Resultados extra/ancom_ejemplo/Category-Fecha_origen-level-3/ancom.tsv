@@ -1,0 +1,23 @@
+	W	Reject null hypothesis
+Bacteria;Bacteria;Rs-K70 termite group	20	True
+Bacteria;Bacteria;Firmicutes	20	True
+Bacteria;Bacteria;Desulfobacterota	19	True
+Bacteria;Bacteria;Bdellovibrionota	18	True
+Bacteria;Bacteria;Patescibacteria	18	True
+Bacteria;Bacteria;Planctomycetota	18	True
+Bacteria;Bacteria;Actinobacteriota	17	True
+Bacteria;Bacteria;Synergistota	17	True
+Bacteria;Bacteria;Chloroflexi	16	True
+Bacteria;Bacteria;Sumerlaeota	16	True
+Bacteria;Bacteria;Verrucomicrobiota	16	True
+Bacteria;Bacteria;Halanaerobiaeota	16	True
+Bacteria;Bacteria;Acidobacteriota	16	True
+Bacteria;Bacteria;Cyanobacteria	15	True
+Bacteria;Bacteria;Fusobacteriota	15	True
+Bacteria;Bacteria;Bacteroidota	12	False
+Bacteria;Bacteria;Elusimicrobiota	11	False
+Bacteria;Bacteria;Myxococcota	11	False
+Bacteria;Bacteria;Proteobacteria	8	False
+;;	5	False
+Bacteria;Bacteria;Deferribacterota	3	False
+Bacteria;Bacteria;	2	False

@@ -1,3 +1,7 @@
-index,Bacteria;Bacteria;Firmicutes,tipo_de_muestra
-data1,8.0,Queso
-data2,2.0,GC
+index,Bacteria;Bacteria;Firmicutes,paper_id,type,milk,loc,state,climate
+Adobera_pasteurizada,16.0,AP,semi-hard,Pd,Tepatitlan,Jalisco,humid subtropical
+Adobera_artesanal,12.0,AA,semi-hard,Rw,San-Miguel-el-Alto,Jalisco,humid subtropical
+Zacatecas,8.0,ZAC,semi-hard,Rw,Tequisquiapan,Queretaro,tropical and subtropical steppe
+Chihuahua,11.0,CHI,semi-soft,Pd,Ciudad-Cuauhtemoc,Chihuahua,tropical and subtropical steppe
+Chiapas,3.0,CHP,soft,Rw,Pijijiapan,Chiapas,tropical savanna
+Ranchero_Estado_de_Mexico,11.0,RED,soft,Rw,Jilotepec,EDOMEX,oceanic subtropical highland

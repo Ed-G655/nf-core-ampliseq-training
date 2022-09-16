@@ -1,0 +1,5 @@
+	17	18
+Adobera_pasteurizada - Adapter 1	19.0	1.0
+	17
+Chihuahua - Adapter 1	20.0
+

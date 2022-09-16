@@ -1,0 +1,7 @@
+sample	cutadapt_total_processed	cutadapt_reverse_complemented	cutadapt_passing_filters	cutadapt_passing_filters_percent	input	filtered	denoised	nonchim
+Adobera_artesanal	20	NA	20	100.0%	20	15	12	12
+Adobera_pasteurizada	20	NA	20	100.0%	20	17	16	16
+Chiapas	20	NA	20	100.0%	20	18	3	3
+Chihuahua	20	NA	20	100.0%	20	15	11	11
+Ranchero_Estado_de_Mexico	20	NA	20	100.0%	20	15	11	11
+Zacatecas	20	NA	20	100.0%	20	14	8	8

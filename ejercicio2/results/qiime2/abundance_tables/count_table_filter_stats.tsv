@@ -1,3 +1,7 @@
 sample	input_tax_filter	filtered_tax_filter	lost	retained_percent	lost_percent
-data1	8	8.0	0.0	100.0	0.0
-data2	2	2.0	0.0	100.0	0.0
+Adobera_pasteurizada	16	16.0	0.0	100.0	0.0
+Adobera_artesanal	12	12.0	0.0	100.0	0.0
+Zacatecas	8	8.0	0.0	100.0	0.0
+Chihuahua	11	11.0	0.0	100.0	0.0
+Chiapas	3	3.0	0.0	100.0	0.0
+Ranchero_Estado_de_Mexico	11	11.0	0.0	100.0	0.0

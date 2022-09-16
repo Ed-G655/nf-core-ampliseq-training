@@ -1,0 +1,308 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset='utf-8'>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>q2_composition : ancom</title>
+    <link rel="stylesheet" href="./q2templateassets/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="./q2templateassets/css/normalize.css"/>
+    <link rel="stylesheet" href="./q2templateassets/css/base-template.css"/>
+    <script src="./q2templateassets/js/jquery-3.2.0.min.js" charset="utf-8"></script>
+    <script src="./q2templateassets/js/bootstrap.min.js" charset="utf-8"></script>
+    
+  <script src="js/vega.min.js"></script>
+  <script src="js/vega-embed.min.js"></script>
+  <link rel="stylesheet" type="text/css" href="css/spinkit.css">
+
+  </head>
+  <body>
+    <div class="container-fluid">
+      <div id="q2templatesheader" class="row">
+        <div class="col-lg-12">
+          <a href="http://qiime2.org/">
+            <img src="./q2templateassets/img/qiime2-rect-200.png"
+            alt="QIIME 2">
+          </a>
+        </div>
+      </div>
+        
+
+<div class="row">
+  <div class="col-lg-8">
+    <h3>ANCOM Volcano Plot</h3>
+    <div id="toolbar"></div>
+    
+    <div id="plot">
+      <div id="loading" class="spinner">
+        <div class="rect1"></div>
+        <div class="rect2"></div>
+        <div class="rect3"></div>
+        <div class="rect4"></div>
+        <div class="rect5"></div>
+      </div>
+    </div>
+    
+  </div>
+</div>
+
+<hr>
+
+<div class="row">
+  <div class="col-lg-6">
+    <h4>ANCOM statistical results</h4>
+    
+      <div class="table-responsive">
+        <table border="0" class="dataframe table table-striped table-hover">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>W</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>Bacteria;Bacteria;Firmicutes</th>
+      <td>21</td>
+    </tr>
+    <tr>
+      <th>Bacteria;Bacteria;Desulfobacterota</th>
+      <td>19</td>
+    </tr>
+    <tr>
+      <th>Bacteria;Bacteria;Planctomycetota</th>
+      <td>19</td>
+    </tr>
+    <tr>
+      <th>Bacteria;Bacteria;Patescibacteria</th>
+      <td>18</td>
+    </tr>
+    <tr>
+      <th>Bacteria;Bacteria;Synergistota</th>
+      <td>18</td>
+    </tr>
+    <tr>
+      <th>Bacteria;Bacteria;Rs-K70 termite group</th>
+      <td>18</td>
+    </tr>
+  </tbody>
+</table>
+      </div>
+
+      <a href="ancom.tsv" target="_blank" rel="noopener noreferrer" class="btn btn-default">
+        Download table as TSV
+      </a>
+    
+  </div>
+</div>
+
+<hr>
+
+<div class="row">
+  <div class="col-lg-12">
+    <h4>Percentile abundances of features by group</h4>
+    
+      <div class="table-responsive">
+        <table border="0" class="dataframe table table-striped table-hover">
+  <thead>
+    <tr>
+      <th>Percentile</th>
+      <th>0.0</th>
+      <th>25.0</th>
+      <th>50.0</th>
+      <th>75.0</th>
+      <th>100.0</th>
+      <th>0.0</th>
+      <th>25.0</th>
+      <th>50.0</th>
+      <th>75.0</th>
+      <th>100.0</th>
+    </tr>
+    <tr>
+      <th>Group</th>
+      <th>GC</th>
+      <th>GC</th>
+      <th>GC</th>
+      <th>GC</th>
+      <th>GC</th>
+      <th>Queso</th>
+      <th>Queso</th>
+      <th>Queso</th>
+      <th>Queso</th>
+      <th>Queso</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>Bacteria;Bacteria;Firmicutes</th>
+      <td>18092.0</td>
+      <td>22268.0</td>
+      <td>29804.0</td>
+      <td>46118.0</td>
+      <td>53036.0</td>
+      <td>96985.0</td>
+      <td>187160.5</td>
+      <td>271098.0</td>
+      <td>332599.75</td>
+      <td>591873.0</td>
+    </tr>
+    <tr>
+      <th>Bacteria;Bacteria;Desulfobacterota</th>
+      <td>1275.0</td>
+      <td>1384.0</td>
+      <td>1497.0</td>
+      <td>2434.0</td>
+      <td>2459.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.00</td>
+      <td>1.0</td>
+    </tr>
+    <tr>
+      <th>Bacteria;Bacteria;Planctomycetota</th>
+      <td>114.0</td>
+      <td>198.0</td>
+      <td>230.0</td>
+      <td>856.0</td>
+      <td>1533.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.00</td>
+      <td>1.0</td>
+    </tr>
+    <tr>
+      <th>Bacteria;Bacteria;Patescibacteria</th>
+      <td>159.0</td>
+      <td>438.0</td>
+      <td>926.0</td>
+      <td>1149.0</td>
+      <td>2257.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.00</td>
+      <td>1.0</td>
+    </tr>
+    <tr>
+      <th>Bacteria;Bacteria;Synergistota</th>
+      <td>769.0</td>
+      <td>959.0</td>
+      <td>1205.0</td>
+      <td>1814.0</td>
+      <td>2760.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.00</td>
+      <td>1.0</td>
+    </tr>
+    <tr>
+      <th>Bacteria;Bacteria;Rs-K70 termite group</th>
+      <td>63.0</td>
+      <td>127.0</td>
+      <td>249.0</td>
+      <td>514.0</td>
+      <td>1218.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.00</td>
+      <td>1.0</td>
+    </tr>
+  </tbody>
+</table>
+      </div>
+
+      <a href="percent-abundances.tsv" target="_blank" rel="noopener noreferrer" class="btn btn-default">
+        Download table as TSV
+      </a>
+    
+  </div>
+</div>
+
+    </div>
+    <script type="text/javascript">
+      if (window.frameElement) {
+          document.getElementById('q2templatesheader').remove();
+      }
+    </script>
+    
+
+
+
+
+
+<script type="text/javascript">
+  function handleErrors(errors, element, msg) {
+    console.error(errors);
+    msg = msg === undefined ? '' : msg + '<br><br>';
+    var helpMsg = '<p class="alert alert-danger"> \
+                   There was an error loading and rendering the \
+                   visualization.<br><br>' + msg + 'Please \
+                   copy-and-paste the following error messages when \
+                   reporting this error (please be aware that the content \
+                   of your analysis data and/or metadata is included in \
+                   these messages):</p>';
+    var helpMsgDiv = $('<div></div>');
+    helpMsgDiv.append(helpMsg);
+    helpMsgDiv.append('<pre><code>' + errors.join('\n\n') + '</code></pre>');
+    element.replaceWith(helpMsgDiv);
+  }
+  window.onerror = function(error) {
+    handleErrors([error], $('#loading'));
+  };
+</script>
+
+<script id="spec" type="application/json">{"$schema": "https://vega.github.io/schema/vega/v4.json", "width": 300, "height": 300, "data": [{"name": "values", "values": [{"id": ";;", "clr": -1.9490628769763028, "W": 8}, {"id": "Bacteria;Bacteria;", "clr": 3.004658079955269, "W": 12}, {"id": "Bacteria;Bacteria;Acidobacteriota", "clr": -2.3755288948665747, "W": 12}, {"id": "Bacteria;Bacteria;Actinobacteriota", "clr": 1.3754405054069574, "W": 15}, {"id": "Bacteria;Bacteria;Bacteroidota", "clr": 0.6203125127395328, "W": 14}, {"id": "Bacteria;Bacteria;Bdellovibrionota", "clr": -2.1558064371329513, "W": 10}, {"id": "Bacteria;Bacteria;Chloroflexi", "clr": -0.25600204818074257, "W": 12}, {"id": "Bacteria;Bacteria;Cyanobacteria", "clr": 0.5302807907678169, "W": 15}, {"id": "Bacteria;Bacteria;Deferribacterota", "clr": 0.15064504152099212, "W": 6}, {"id": "Bacteria;Bacteria;Desulfobacterota", "clr": 4.864639506190492, "W": 19}, {"id": "Bacteria;Bacteria;Elusimicrobiota", "clr": -2.0982700226425957, "W": 10}, {"id": "Bacteria;Bacteria;Firmicutes", "clr": -4.65599931475441, "W": 21}, {"id": "Bacteria;Bacteria;Fusobacteriota", "clr": -2.7051125814670067, "W": 12}, {"id": "Bacteria;Bacteria;Halanaerobiaeota", "clr": -2.155806437132952, "W": 13}, {"id": "Bacteria;Bacteria;Myxococcota", "clr": -0.5409388983150489, "W": 7}, {"id": "Bacteria;Bacteria;Patescibacteria", "clr": 3.954835927781634, "W": 18}, {"id": "Bacteria;Bacteria;Planctomycetota", "clr": 3.3147080560049607, "W": 19}, {"id": "Bacteria;Bacteria;Proteobacteria", "clr": -2.0564545698690546, "W": 10}, {"id": "Bacteria;Bacteria;Rs-K70 termite group", "clr": 2.975141332007772, "W": 18}, {"id": "Bacteria;Bacteria;Sumerlaeota", "clr": -2.2733637701133764, "W": 13}, {"id": "Bacteria;Bacteria;Synergistota", "clr": 4.611047143339827, "W": 18}, {"id": "Bacteria;Bacteria;Verrucomicrobiota", "clr": -2.179363044264229, "W": 13}]}], "scales": [{"name": "xScale", "domain": {"data": "values", "field": "clr"}, "range": "width"}, {"name": "yScale", "domain": {"data": "values", "field": "W"}, "range": "height"}], "axes": [{"scale": "xScale", "orient": "bottom", "title": "clr"}, {"scale": "yScale", "orient": "left", "title": "W"}], "marks": [{"type": "symbol", "from": {"data": "values"}, "encode": {"hover": {"fill": {"value": "#FF0000"}, "opacity": {"value": 1}}, "enter": {"x": {"scale": "xScale", "field": "clr"}, "y": {"scale": "yScale", "field": "W"}}, "update": {"fill": {"value": "black"}, "opacity": {"value": 0.3}, "tooltip": {"signal": "{'title': datum['id'], 'clr': datum['clr'], 'W': datum['W']}"}}}}]}</script>
+<script type="text/javascript">
+  $(document).ready(function() {
+    var spec = JSON.parse(document.getElementById('spec').innerHTML);
+
+    // Try and come up with a good initial estimate of plot dimensions,
+    // based on the browser dimensions.
+    var width = $('#plot').width() / 1.5;
+    var opts = {width: width, height: width / 2};
+
+    vegaEmbed('#plot', spec, opts).then(function(result) {
+      result.view.logLevel(vega.Warn);
+      // Stash the view object in global namespace for debugging purposes.
+      // Check out https://vega.github.io/vega/docs/api/debugging/
+      // for more details.
+      window.v = result.view;
+    }).catch(function(error) {
+      // From 'js-error-handler.html'
+      handleErrors([error], $('#plot'));
+    });
+
+    // Clean up the vega-embed toolbar
+    var toolbar = $('div .vega-actions').detach();
+    toolbar.addClass('btn-group');
+    toolbar.children('a').each(function() {
+      // NOTE: We're just skipping this bit until we get the plot working with
+      // Vega 5
+      if(this.innerHTML == "Open in Vega Editor"){
+        this.remove()
+        return true
+      }
+      $(this).addClass('btn btn-default');
+    });
+    $('<a href="data.tsv" target="_blank" rel="noopener noreferrer" class="btn btn-default">Export as TSV</a>')
+      .prependTo(toolbar);
+    toolbar.appendTo('#toolbar');
+
+    // Util to mutate elements in-place
+    function cleanupEl(el, label, form_el) {
+      var e = $(el + ' .vega-bind');
+      e.children('span').replaceWith('<label>' + label + '&nbsp;</label');
+      if (form_el !== undefined) {
+        e.children(form_el).addClass('form-control');
+      }
+    }
+  });
+</script>
+
+
+  </body>
+</html>

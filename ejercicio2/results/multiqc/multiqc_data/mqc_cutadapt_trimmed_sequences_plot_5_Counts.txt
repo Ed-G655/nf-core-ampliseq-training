@@ -1,0 +1,13 @@
+	17
+Adobera_artesanal - Adapter 1	20
+	17	18
+Adobera_pasteurizada - Adapter 1	19	1
+	16	17	18
+Chiapas - Adapter 1	1	17	2
+	17
+Chihuahua - Adapter 1	20
+	17	18
+Ranchero_Estado_de_Mexico - Adapter 1	19	1
+	17
+Zacatecas - Adapter 1	20
+

@@ -1,0 +1,23 @@
+	W	Reject null hypothesis
+Bacteria;Bacteria;Firmicutes	21	True
+Bacteria;Bacteria;Desulfobacterota	19	True
+Bacteria;Bacteria;Planctomycetota	19	True
+Bacteria;Bacteria;Patescibacteria	18	True
+Bacteria;Bacteria;Synergistota	18	True
+Bacteria;Bacteria;Rs-K70 termite group	18	True
+Bacteria;Bacteria;Cyanobacteria	15	False
+Bacteria;Bacteria;Actinobacteriota	15	False
+Bacteria;Bacteria;Bacteroidota	14	False
+Bacteria;Bacteria;Sumerlaeota	13	False
+Bacteria;Bacteria;Verrucomicrobiota	13	False
+Bacteria;Bacteria;Halanaerobiaeota	13	False
+Bacteria;Bacteria;Fusobacteriota	12	False
+Bacteria;Bacteria;Chloroflexi	12	False
+Bacteria;Bacteria;	12	False
+Bacteria;Bacteria;Acidobacteriota	12	False
+Bacteria;Bacteria;Elusimicrobiota	10	False
+Bacteria;Bacteria;Bdellovibrionota	10	False
+Bacteria;Bacteria;Proteobacteria	10	False
+;;	8	False
+Bacteria;Bacteria;Myxococcota	7	False
+Bacteria;Bacteria;Deferribacterota	6	False

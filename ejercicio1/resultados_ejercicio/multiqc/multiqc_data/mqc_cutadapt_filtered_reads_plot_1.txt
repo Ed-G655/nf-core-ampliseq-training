@@ -1,5 +1,0 @@
-Sample	Reads passing filters	Filtered reads (uncategorised)
-Adobera_artesanal	50.0	nan
-Adobera_pasteurizada	48.0	2.0
-Chihuahua	50.0	nan
-Zacatecas	50.0	nan

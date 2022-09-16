@@ -1,0 +1,7 @@
+Sample	Reads passing filters
+Adobera_artesanal	20.0
+Adobera_pasteurizada	20.0
+Chiapas	20.0
+Chihuahua	20.0
+Ranchero_Estado_de_Mexico	20.0
+Zacatecas	20.0

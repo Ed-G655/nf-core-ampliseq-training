@@ -1,0 +1,801 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset='utf-8'>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>q2_composition : ancom</title>
+    <link rel="stylesheet" href="./q2templateassets/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="./q2templateassets/css/normalize.css"/>
+    <link rel="stylesheet" href="./q2templateassets/css/base-template.css"/>
+    <script src="./q2templateassets/js/jquery-3.2.0.min.js" charset="utf-8"></script>
+    <script src="./q2templateassets/js/bootstrap.min.js" charset="utf-8"></script>
+    
+  <script src="js/vega.min.js"></script>
+  <script src="js/vega-embed.min.js"></script>
+  <link rel="stylesheet" type="text/css" href="css/spinkit.css">
+
+  </head>
+  <body>
+    <div class="container-fluid">
+      <div id="q2templatesheader" class="row">
+        <div class="col-lg-12">
+          <a href="http://qiime2.org/">
+            <img src="./q2templateassets/img/qiime2-rect-200.png"
+            alt="QIIME 2">
+          </a>
+        </div>
+      </div>
+        
+
+<div class="row">
+  <div class="col-lg-8">
+    <h3>ANCOM Volcano Plot</h3>
+    <div id="toolbar"></div>
+    
+    <div id="plot">
+      <div id="loading" class="spinner">
+        <div class="rect1"></div>
+        <div class="rect2"></div>
+        <div class="rect3"></div>
+        <div class="rect4"></div>
+        <div class="rect5"></div>
+      </div>
+    </div>
+    
+  </div>
+</div>
+
+<hr>
+
+<div class="row">
+  <div class="col-lg-6">
+    <h4>ANCOM statistical results</h4>
+    
+      <div class="table-responsive">
+        <table border="0" class="dataframe table table-striped table-hover">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>W</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>Bacteria;Bacteria;Rs-K70 termite group</th>
+      <td>20</td>
+    </tr>
+    <tr>
+      <th>Bacteria;Bacteria;Firmicutes</th>
+      <td>20</td>
+    </tr>
+    <tr>
+      <th>Bacteria;Bacteria;Desulfobacterota</th>
+      <td>19</td>
+    </tr>
+    <tr>
+      <th>Bacteria;Bacteria;Bdellovibrionota</th>
+      <td>18</td>
+    </tr>
+    <tr>
+      <th>Bacteria;Bacteria;Patescibacteria</th>
+      <td>18</td>
+    </tr>
+    <tr>
+      <th>Bacteria;Bacteria;Planctomycetota</th>
+      <td>18</td>
+    </tr>
+    <tr>
+      <th>Bacteria;Bacteria;Actinobacteriota</th>
+      <td>17</td>
+    </tr>
+    <tr>
+      <th>Bacteria;Bacteria;Synergistota</th>
+      <td>17</td>
+    </tr>
+    <tr>
+      <th>Bacteria;Bacteria;Chloroflexi</th>
+      <td>16</td>
+    </tr>
+    <tr>
+      <th>Bacteria;Bacteria;Sumerlaeota</th>
+      <td>16</td>
+    </tr>
+    <tr>
+      <th>Bacteria;Bacteria;Verrucomicrobiota</th>
+      <td>16</td>
+    </tr>
+    <tr>
+      <th>Bacteria;Bacteria;Halanaerobiaeota</th>
+      <td>16</td>
+    </tr>
+    <tr>
+      <th>Bacteria;Bacteria;Acidobacteriota</th>
+      <td>16</td>
+    </tr>
+    <tr>
+      <th>Bacteria;Bacteria;Cyanobacteria</th>
+      <td>15</td>
+    </tr>
+    <tr>
+      <th>Bacteria;Bacteria;Fusobacteriota</th>
+      <td>15</td>
+    </tr>
+  </tbody>
+</table>
+      </div>
+
+      <a href="ancom.tsv" target="_blank" rel="noopener noreferrer" class="btn btn-default">
+        Download table as TSV
+      </a>
+    
+  </div>
+</div>
+
+<hr>
+
+<div class="row">
+  <div class="col-lg-12">
+    <h4>Percentile abundances of features by group</h4>
+    
+      <div class="table-responsive">
+        <table border="0" class="dataframe table table-striped table-hover">
+  <thead>
+    <tr>
+      <th>Percentile</th>
+      <th>0.0</th>
+      <th>25.0</th>
+      <th>50.0</th>
+      <th>75.0</th>
+      <th>100.0</th>
+      <th>0.0</th>
+      <th>25.0</th>
+      <th>50.0</th>
+      <th>75.0</th>
+      <th>100.0</th>
+      <th>0.0</th>
+      <th>25.0</th>
+      <th>50.0</th>
+      <th>75.0</th>
+      <th>100.0</th>
+      <th>0.0</th>
+      <th>25.0</th>
+      <th>50.0</th>
+      <th>75.0</th>
+      <th>100.0</th>
+      <th>0.0</th>
+      <th>25.0</th>
+      <th>50.0</th>
+      <th>75.0</th>
+      <th>100.0</th>
+      <th>0.0</th>
+      <th>25.0</th>
+      <th>50.0</th>
+      <th>75.0</th>
+      <th>100.0</th>
+    </tr>
+    <tr>
+      <th>Group</th>
+      <th>231120</th>
+      <th>231120</th>
+      <th>231120</th>
+      <th>231120</th>
+      <th>231120</th>
+      <th>241120</th>
+      <th>241120</th>
+      <th>241120</th>
+      <th>241120</th>
+      <th>241120</th>
+      <th>251120</th>
+      <th>251120</th>
+      <th>251120</th>
+      <th>251120</th>
+      <th>251120</th>
+      <th>El_garbanzo</th>
+      <th>El_garbanzo</th>
+      <th>El_garbanzo</th>
+      <th>El_garbanzo</th>
+      <th>El_garbanzo</th>
+      <th>Montecillo</th>
+      <th>Montecillo</th>
+      <th>Montecillo</th>
+      <th>Montecillo</th>
+      <th>Montecillo</th>
+      <th>Tierras_negras</th>
+      <th>Tierras_negras</th>
+      <th>Tierras_negras</th>
+      <th>Tierras_negras</th>
+      <th>Tierras_negras</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>Bacteria;Bacteria;Rs-K70 termite group</th>
+      <td>1.0</td>
+      <td>1.00</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1218.0</td>
+      <td>1218.0</td>
+      <td>1218.0</td>
+      <td>1218.0</td>
+      <td>1218.0</td>
+      <td>514.0</td>
+      <td>514.0</td>
+      <td>514.0</td>
+      <td>514.0</td>
+      <td>514.0</td>
+      <td>63.0</td>
+      <td>95.0</td>
+      <td>127.0</td>
+      <td>188.0</td>
+      <td>249.0</td>
+    </tr>
+    <tr>
+      <th>Bacteria;Bacteria;Firmicutes</th>
+      <td>96985.0</td>
+      <td>119905.75</td>
+      <td>181760.5</td>
+      <td>264568.0</td>
+      <td>350347.0</td>
+      <td>170889.0</td>
+      <td>217048.0</td>
+      <td>263207.0</td>
+      <td>271098.0</td>
+      <td>278989.0</td>
+      <td>279358.0</td>
+      <td>320699.5</td>
+      <td>362041.0</td>
+      <td>476957.0</td>
+      <td>591873.0</td>
+      <td>53036.0</td>
+      <td>53036.0</td>
+      <td>53036.0</td>
+      <td>53036.0</td>
+      <td>53036.0</td>
+      <td>29804.0</td>
+      <td>29804.0</td>
+      <td>29804.0</td>
+      <td>29804.0</td>
+      <td>29804.0</td>
+      <td>18092.0</td>
+      <td>20180.0</td>
+      <td>22268.0</td>
+      <td>34193.0</td>
+      <td>46118.0</td>
+    </tr>
+    <tr>
+      <th>Bacteria;Bacteria;Desulfobacterota</th>
+      <td>1.0</td>
+      <td>1.00</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1275.0</td>
+      <td>1275.0</td>
+      <td>1275.0</td>
+      <td>1275.0</td>
+      <td>1275.0</td>
+      <td>2434.0</td>
+      <td>2434.0</td>
+      <td>2434.0</td>
+      <td>2434.0</td>
+      <td>2434.0</td>
+      <td>1384.0</td>
+      <td>1440.5</td>
+      <td>1497.0</td>
+      <td>1978.0</td>
+      <td>2459.0</td>
+    </tr>
+    <tr>
+      <th>Bacteria;Bacteria;Bdellovibrionota</th>
+      <td>1.0</td>
+      <td>1.00</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>9.0</td>
+      <td>9.0</td>
+      <td>9.0</td>
+      <td>9.0</td>
+      <td>9.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+    </tr>
+    <tr>
+      <th>Bacteria;Bacteria;Patescibacteria</th>
+      <td>1.0</td>
+      <td>1.00</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>159.0</td>
+      <td>159.0</td>
+      <td>159.0</td>
+      <td>159.0</td>
+      <td>159.0</td>
+      <td>2257.0</td>
+      <td>2257.0</td>
+      <td>2257.0</td>
+      <td>2257.0</td>
+      <td>2257.0</td>
+      <td>438.0</td>
+      <td>682.0</td>
+      <td>926.0</td>
+      <td>1037.5</td>
+      <td>1149.0</td>
+    </tr>
+    <tr>
+      <th>Bacteria;Bacteria;Planctomycetota</th>
+      <td>1.0</td>
+      <td>1.00</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>114.0</td>
+      <td>114.0</td>
+      <td>114.0</td>
+      <td>114.0</td>
+      <td>114.0</td>
+      <td>1533.0</td>
+      <td>1533.0</td>
+      <td>1533.0</td>
+      <td>1533.0</td>
+      <td>1533.0</td>
+      <td>198.0</td>
+      <td>214.0</td>
+      <td>230.0</td>
+      <td>543.0</td>
+      <td>856.0</td>
+    </tr>
+    <tr>
+      <th>Bacteria;Bacteria;Actinobacteriota</th>
+      <td>71.0</td>
+      <td>102.50</td>
+      <td>118.0</td>
+      <td>137.5</td>
+      <td>181.0</td>
+      <td>98.0</td>
+      <td>115.0</td>
+      <td>132.0</td>
+      <td>143.5</td>
+      <td>155.0</td>
+      <td>143.0</td>
+      <td>168.5</td>
+      <td>194.0</td>
+      <td>238.0</td>
+      <td>282.0</td>
+      <td>12506.0</td>
+      <td>12506.0</td>
+      <td>12506.0</td>
+      <td>12506.0</td>
+      <td>12506.0</td>
+      <td>7709.0</td>
+      <td>7709.0</td>
+      <td>7709.0</td>
+      <td>7709.0</td>
+      <td>7709.0</td>
+      <td>4790.0</td>
+      <td>4803.5</td>
+      <td>4817.0</td>
+      <td>7394.0</td>
+      <td>9971.0</td>
+    </tr>
+    <tr>
+      <th>Bacteria;Bacteria;Synergistota</th>
+      <td>1.0</td>
+      <td>1.00</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1205.0</td>
+      <td>1205.0</td>
+      <td>1205.0</td>
+      <td>1205.0</td>
+      <td>1205.0</td>
+      <td>2760.0</td>
+      <td>2760.0</td>
+      <td>2760.0</td>
+      <td>2760.0</td>
+      <td>2760.0</td>
+      <td>769.0</td>
+      <td>864.0</td>
+      <td>959.0</td>
+      <td>1386.5</td>
+      <td>1814.0</td>
+    </tr>
+    <tr>
+      <th>Bacteria;Bacteria;Chloroflexi</th>
+      <td>1.0</td>
+      <td>1.00</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>182.0</td>
+      <td>182.0</td>
+      <td>182.0</td>
+      <td>182.0</td>
+      <td>182.0</td>
+      <td>6.0</td>
+      <td>8.0</td>
+      <td>10.0</td>
+      <td>10.5</td>
+      <td>11.0</td>
+    </tr>
+    <tr>
+      <th>Bacteria;Bacteria;Sumerlaeota</th>
+      <td>1.0</td>
+      <td>1.00</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>5.0</td>
+      <td>5.0</td>
+      <td>5.0</td>
+      <td>5.0</td>
+      <td>5.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+    </tr>
+    <tr>
+      <th>Bacteria;Bacteria;Verrucomicrobiota</th>
+      <td>1.0</td>
+      <td>1.00</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>8.0</td>
+      <td>8.0</td>
+      <td>8.0</td>
+      <td>8.0</td>
+      <td>8.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+    </tr>
+    <tr>
+      <th>Bacteria;Bacteria;Halanaerobiaeota</th>
+      <td>1.0</td>
+      <td>1.00</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>9.0</td>
+      <td>9.0</td>
+      <td>9.0</td>
+      <td>9.0</td>
+      <td>9.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+    </tr>
+    <tr>
+      <th>Bacteria;Bacteria;Acidobacteriota</th>
+      <td>1.0</td>
+      <td>1.00</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>3.0</td>
+      <td>3.0</td>
+      <td>3.0</td>
+      <td>3.0</td>
+      <td>3.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+    </tr>
+    <tr>
+      <th>Bacteria;Bacteria;Cyanobacteria</th>
+      <td>1.0</td>
+      <td>1.00</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>7.0</td>
+      <td>7.0</td>
+      <td>7.0</td>
+      <td>7.0</td>
+      <td>7.0</td>
+      <td>10.0</td>
+      <td>10.0</td>
+      <td>10.0</td>
+      <td>10.0</td>
+      <td>10.0</td>
+      <td>15.0</td>
+      <td>25.5</td>
+      <td>36.0</td>
+      <td>99.0</td>
+      <td>162.0</td>
+    </tr>
+    <tr>
+      <th>Bacteria;Bacteria;Fusobacteriota</th>
+      <td>1.0</td>
+      <td>1.00</td>
+      <td>1.0</td>
+      <td>1.5</td>
+      <td>3.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+    </tr>
+  </tbody>
+</table>
+      </div>
+
+      <a href="percent-abundances.tsv" target="_blank" rel="noopener noreferrer" class="btn btn-default">
+        Download table as TSV
+      </a>
+    
+  </div>
+</div>
+
+    </div>
+    <script type="text/javascript">
+      if (window.frameElement) {
+          document.getElementById('q2templatesheader').remove();
+      }
+    </script>
+    
+
+
+
+
+
+<script type="text/javascript">
+  function handleErrors(errors, element, msg) {
+    console.error(errors);
+    msg = msg === undefined ? '' : msg + '<br><br>';
+    var helpMsg = '<p class="alert alert-danger"> \
+                   There was an error loading and rendering the \
+                   visualization.<br><br>' + msg + 'Please \
+                   copy-and-paste the following error messages when \
+                   reporting this error (please be aware that the content \
+                   of your analysis data and/or metadata is included in \
+                   these messages):</p>';
+    var helpMsgDiv = $('<div></div>');
+    helpMsgDiv.append(helpMsg);
+    helpMsgDiv.append('<pre><code>' + errors.join('\n\n') + '</code></pre>');
+    element.replaceWith(helpMsgDiv);
+  }
+  window.onerror = function(error) {
+    handleErrors([error], $('#loading'));
+  };
+</script>
+
+<script id="spec" type="application/json">{"$schema": "https://vega.github.io/schema/vega/v4.json", "width": 300, "height": 300, "data": [{"name": "values", "values": [{"id": ";;", "clr": 3.0358447215781634, "W": 5}, {"id": "Bacteria;Bacteria;", "clr": 3.3166894001373004, "W": 2}, {"id": "Bacteria;Bacteria;Acidobacteriota", "clr": 82.33935688386279, "W": 16}, {"id": "Bacteria;Bacteria;Actinobacteriota", "clr": 9.702098455386107, "W": 17}, {"id": "Bacteria;Bacteria;Bacteroidota", "clr": 0.961362760769409, "W": 12}, {"id": "Bacteria;Bacteria;Bdellovibrionota", "clr": 94.59147334461076, "W": 18}, {"id": "Bacteria;Bacteria;Chloroflexi", "clr": 97.96571196116436, "W": 16}, {"id": "Bacteria;Bacteria;Cyanobacteria", "clr": 7.629997579971316, "W": 15}, {"id": "Bacteria;Bacteria;Deferribacterota", "clr": 1.308559361318838, "W": 3}, {"id": "Bacteria;Bacteria;Desulfobacterota", "clr": 773.7759450767577, "W": 19}, {"id": "Bacteria;Bacteria;Elusimicrobiota", "clr": 12.410764426036549, "W": 11}, {"id": "Bacteria;Bacteria;Firmicutes", "clr": 69.7894717587613, "W": 20}, {"id": "Bacteria;Bacteria;Fusobacteriota", "clr": 31.99934394376578, "W": 15}, {"id": "Bacteria;Bacteria;Halanaerobiaeota", "clr": 73.57621785400636, "W": 16}, {"id": "Bacteria;Bacteria;Myxococcota", "clr": 8.346947805556853, "W": 11}, {"id": "Bacteria;Bacteria;Patescibacteria", "clr": 541.0069954097739, "W": 18}, {"id": "Bacteria;Bacteria;Planctomycetota", "clr": 114.64952287136508, "W": 18}, {"id": "Bacteria;Bacteria;Proteobacteria", "clr": 7.653162182420723, "W": 8}, {"id": "Bacteria;Bacteria;Rs-K70 termite group", "clr": 84.39759566657736, "W": 20}, {"id": "Bacteria;Bacteria;Sumerlaeota", "clr": 77.04582141595098, "W": 16}, {"id": "Bacteria;Bacteria;Synergistota", "clr": 86.44060919271261, "W": 17}, {"id": "Bacteria;Bacteria;Verrucomicrobiota", "clr": 74.0467401375184, "W": 16}]}], "scales": [{"name": "xScale", "domain": {"data": "values", "field": "clr"}, "range": "width"}, {"name": "yScale", "domain": {"data": "values", "field": "W"}, "range": "height"}], "axes": [{"scale": "xScale", "orient": "bottom", "title": "clr"}, {"scale": "yScale", "orient": "left", "title": "W"}], "marks": [{"type": "symbol", "from": {"data": "values"}, "encode": {"hover": {"fill": {"value": "#FF0000"}, "opacity": {"value": 1}}, "enter": {"x": {"scale": "xScale", "field": "clr"}, "y": {"scale": "yScale", "field": "W"}}, "update": {"fill": {"value": "black"}, "opacity": {"value": 0.3}, "tooltip": {"signal": "{'title': datum['id'], 'clr': datum['clr'], 'W': datum['W']}"}}}}]}</script>
+<script type="text/javascript">
+  $(document).ready(function() {
+    var spec = JSON.parse(document.getElementById('spec').innerHTML);
+
+    // Try and come up with a good initial estimate of plot dimensions,
+    // based on the browser dimensions.
+    var width = $('#plot').width() / 1.5;
+    var opts = {width: width, height: width / 2};
+
+    vegaEmbed('#plot', spec, opts).then(function(result) {
+      result.view.logLevel(vega.Warn);
+      // Stash the view object in global namespace for debugging purposes.
+      // Check out https://vega.github.io/vega/docs/api/debugging/
+      // for more details.
+      window.v = result.view;
+    }).catch(function(error) {
+      // From 'js-error-handler.html'
+      handleErrors([error], $('#plot'));
+    });
+
+    // Clean up the vega-embed toolbar
+    var toolbar = $('div .vega-actions').detach();
+    toolbar.addClass('btn-group');
+    toolbar.children('a').each(function() {
+      // NOTE: We're just skipping this bit until we get the plot working with
+      // Vega 5
+      if(this.innerHTML == "Open in Vega Editor"){
+        this.remove()
+        return true
+      }
+      $(this).addClass('btn btn-default');
+    });
+    $('<a href="data.tsv" target="_blank" rel="noopener noreferrer" class="btn btn-default">Export as TSV</a>')
+      .prependTo(toolbar);
+    toolbar.appendTo('#toolbar');
+
+    // Util to mutate elements in-place
+    function cleanupEl(el, label, form_el) {
+      var e = $(el + ' .vega-bind');
+      e.children('span').replaceWith('<label>' + label + '&nbsp;</label');
+      if (form_el !== undefined) {
+        e.children(form_el).addClass('form-control');
+      }
+    }
+  });
+</script>
+
+
+  </body>
+</html>

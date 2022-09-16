@@ -13,5 +13,6 @@ nextflow run nf-core/ampliseq \
   --max_memory '4.GB' \
   -resume \
   --skip_alpha_rarefaction \
+  --skip_diversity_indices \
   --skip_ancom \
-  --skip_diversity_indices
+  -r dev

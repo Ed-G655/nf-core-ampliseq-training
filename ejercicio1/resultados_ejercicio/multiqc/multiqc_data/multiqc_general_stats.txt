@@ -1,5 +1,0 @@
-Sample	Cutadapt_mqc-generalstats-cutadapt-percent_trimmed	FastQC_mqc-generalstats-fastqc-percent_duplicates	FastQC_mqc-generalstats-fastqc-percent_gc	FastQC_mqc-generalstats-fastqc-avg_sequence_length	FastQC_mqc-generalstats-fastqc-percent_fails	FastQC_mqc-generalstats-fastqc-total_sequences
-Adobera_artesanal	8.123809523809523	68.0	54.0	210.0	40.0	50.0
-Adobera_pasteurizada	11.780952380952382	66.0	55.0	210.0	40.0	50.0
-Chihuahua	8.096780339112211	78.0	53.0	209.96	40.0	50.0
-Zacatecas	8.096009143727974	66.0	53.0	209.98	30.0	50.0
